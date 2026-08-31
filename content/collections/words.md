@@ -5,8 +5,96 @@ compartir: true
 category: Collections
 tags: [collection]
 ---
-A compilation of words I like and their definitions. Visit the [source](https://wordwarriors.wayne.edu/list).
+> [!NOTE] **Refined Selections**
+> refined variations based on my preferred selections, focusing on the [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) and archival aesthetic for [wiki.glosse.me](https://wiki.glosse.mel).
+> 
+# **The [Compendium](https://www.merriam-webster.com/dictionary/compendium)**
+* *Eliana’s Compendium*
+* *A Compendium of Lists*
+* *The List Compendium*
+# **The [Miscellany](https://www.merriam-webster.com/dictionary/miscellany)**
+* *Eliana’s Miscellany*
+* *A Curated Miscellany*
+* *The Miscellanea*
+# **The [Almanac](https://www.merriam-webster.com/dictionary/almanac)**
+* *Eliana’s Almanac*
+* *A List-Maker’s Almanac*
+* *The Perpetual Almanac*
+# **The [Assortment](https://www.merriam-webster.com/dictionary/assortment)**
+* *Eliana’s Assortments*
+* *A Categorical Assortment*
+* *The Assorted Lists*
+# **The [Collection](https://www.merriam-webster.com/dictionary/collection)**
+* *Eliana’s Collections*
+* *A Collection of Notions*
+* *The List Collection*
+### **Combined Vibe Phrases**
+* *A [Miscellany](https://www.merriam-webster.com/dictionary/miscellany) of Lists*
+* *The [Compendium](https://www.merriam-webster.com/dictionary/compendium) & [Almanac](https://www.merriam-webster.com/dictionary/almanac)*
+* *Assorted [Collections](https://www.merriam-webster.com/dictionary/collection)*
 
+
+
+# A compilation of words I like and their definitions. Visit the [source](https://wordwarriors.wayne.edu/list).
+
+* [Aggregations](https://www.merriam-webster.com/dictionary/aggregation)  
+* [Almanac](https://www.merriam-webster.com/dictionary/almanac)  
+* [Archive](https://www.merriam-webster.com/dictionary/archive)  
+* [Assortments](https://www.merriam-webster.com/dictionary/assortment)  
+* [Catalog](https://www.merriam-webster.com/dictionary/catalog)  
+* [Collections](https://www.merriam-webster.com/dictionary/collection)  
+* [Commonplace](https://en.wikipedia.org/wiki/Commonplace_book)  
+* [Compendium](https://www.merriam-webster.com/dictionary/compendium)  
+* [Directory](https://www.merriam-webster.com/dictionary/directory)  
+* [Folio](https://www.merriam-webster.com/dictionary/folio)  
+* [Gatherings](https://www.merriam-webster.com/dictionary/gathering)  
+* [Hoard](https://www.merriam-webster.com/dictionary/hoard)  
+* [Index](https://www.merriam-webster.com/dictionary/index)  
+* [Inventory](https://www.merriam-webster.com/dictionary/inventory)  
+* [Ledger](https://www.merriam-webster.com/dictionary/ledger)  
+* [Logbook](https://www.merriam-webster.com/dictionary/logbook)  
+* [Miscellany](https://www.merriam-webster.com/dictionary/miscellany)  
+* [Registry](https://www.merriam-webster.com/dictionary/registry)  
+* [Accumulation](https://www.merriam-webster.com/dictionary/accumulation)  
+* [Analecta](https://www.merriam-webster.com/dictionary/analects)  
+* [Archive](https://www.merriam-webster.com/dictionary/archive)  
+* [Cabinet](https://en.wikipedia.org/wiki/Cabinet_of_curiosities)  
+* [Canon](https://www.merriam-webster.com/dictionary/canon)  
+* [Codex](https://en.wikipedia.org/wiki/Codex)  
+* [Conspectus](https://www.merriam-webster.com/dictionary/conspectus)  
+* [Depository](https://www.merriam-webster.com/dictionary/depository)  
+* [Digest](https://www.merriam-webster.com/dictionary/digest)  
+* [Florilegium](https://en.wikipedia.org/wiki/Florilegium)  
+* [Lexicon](https://www.merriam-webster.com/dictionary/lexicon)  
+* [Nomenclature](https://www.merriam-webster.com/dictionary/nomenclature)  
+* [Omnium-gatherum](https://www.merriam-webster.com/dictionary/omnium-gatherum)  
+* [Pastiche](https://www.merriam-webster.com/dictionary/pastiche)  
+* [Potpourri](https://www.merriam-webster.com/dictionary/potpourri)  
+* [Repository](https://www.merriam-webster.com/dictionary/repository)  
+* [Schema](https://www.merriam-webster.com/dictionary/schema)  
+* [Syllabus](https://www.merriam-webster.com/dictionary/syllabus)  
+* [Taxonomy](https://www.merriam-webster.com/dictionary/taxonomy)  
+* [Treasury](https://www.merriam-webster.com/dictionary/treasury)
+* [**Accumulation**](https://www.merriam-webster.com/dictionary/accumulation): A mass or quantity of something that has gradually gathered.  
+* [**Analecta**](https://www.merriam-webster.com/dictionary/analects): Literary gleanings or selected passages.  
+* [**Archive**](https://www.merriam-webster.com/dictionary/archive): A collection of historical records or data.  
+* [**Cabinet**](https://en.wikipedia.org/wiki/Cabinet_of_curiosities): Evokes a "[Cabinet of Curiosities](https://en.wikipedia.org/wiki/Cabinet_of_curiosities)" vibe.  
+* [**Canon**](https://www.merriam-webster.com/dictionary/canon): A collection or list of sacred or significant works.  
+* [**Codex**](https://en.wikipedia.org/wiki/Codex): An ancient manuscript text in book form.  
+* [**Conspectus**](https://www.merriam-webster.com/dictionary/conspectus): A summary or overview of a subject.  
+* [**Depository**](https://www.merriam-webster.com/dictionary/depository): A storehouse for items or information.  
+* [**Digest**](https://www.merriam-webster.com/dictionary/digest): A compilation or summary of material or information.  
+* [**Florilegium**](https://en.wikipedia.org/wiki/Florilegium): Literally a "gathering of flowers"; a volume of literary extracts.  
+* [**Lexicon**](https://www.merriam-webster.com/dictionary/lexicon): Usually for words, but fits a structured, topical list site.  
+* [**Nomenclature**](https://www.merriam-webster.com/dictionary/nomenclature): A system of names or terms.  
+* [**Omnium-gatherum**](https://www.merriam-webster.com/dictionary/omnium-gatherum): A miscellaneous collection of things or people.  
+* [**Pastiche**](https://www.merriam-webster.com/dictionary/pastiche): A work that imitates the style of other works or is made of various pieces.  
+* [**Potpourri**](https://www.merriam-webster.com/dictionary/potpourri): A mixture of things that are not naturally connected.  
+* [**Repository**](https://www.merriam-webster.com/dictionary/repository): A central place where things are stored.  
+* [**Schema**](https://www.merriam-webster.com/dictionary/schema): A structured framework or plan.  
+* [**Syllabus**](https://www.merriam-webster.com/dictionary/syllabus): An outline or summary of main topics.  
+* [**Taxonomy**](https://www.merriam-webster.com/dictionary/taxonomy): A scheme of classification.  
+* [**Treasury**](https://www.merriam-webster.com/dictionary/treasury): A collection of valuable or highly prized items.
 - [heliotropic](https://onelook.com/?loc=beta1&w=heliotropic)
 - [heliophilic](https://onelook.com/?loc=beta3&w=heliophilic)
 - [heliophilous](https://onelook.com/?loc=beta3&w=heliophilous)
