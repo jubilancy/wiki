@@ -1,0 +1,79 @@
+# Wikipedia
+
+- [Wikistats - Statistics For Wikimedia Projects](https://stats.wikimedia.org/#/pt.wikipedia.org): Statistics for Wikimedia Projects: Wikipedia, Commons, Wikidata, Wikivoyage, Wiktionary, Wikibooks, Wikinews, Wikiquote, Wikiversity
+- [Wikipédia:Carregar ficheiro – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikipedia:Carregar_ficheiro)
+- [Wikipédia:Sobre a Wikipédia – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre_a_Wikip%C3%A9dia)
+- [Wikipédia:Portal comunitário – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio)
+- [Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
+- [Wikipédia:Manutenção – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o)
+- [https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Isen%C3%A7%C3%A3o_de_responsabilidade_geral](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Isen%C3%A7%C3%A3o_de_responsabilidade_geral)
+- [Wikipédia:Esplanada – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Esplanada)
+- [Wikipédia:Contato – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Contato)
+- [Wikipédia:Boas-vindas – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Boas-vindas)
+- [Fundação Wikimedia – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Wikimedia_Foundation)
+- [Usuário(a):Basedgirl – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Usu%C3%A1rio%28a%29:Basedgirl)
+- [Usuário(a) Discussão:Basedgirl – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Usu%C3%A1rio%28a%29_Discuss%C3%A3o:Basedgirl)
+- [Portal:Eventos atuais – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Portal:Eventos_atuais)
+- [Portal:Conteúdo destacado – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Portal:Conte%C3%BAdo_destacado)
+- [Portal:Índice – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Portal:%C3%8Dndice)
+- [Maria Madalena](https://pt.wikipedia.org/wiki/Maria_Madalena): mulher da Bíblia, discípula de Jesus e santa
+- [Licença livre](https://pt.wikipedia.org/wiki/Licen%C3%A7a_livre): tipo de licença utilizada para conteúdo livre ou software livre
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#searchInput)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#mw-head)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#globalusage)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#filelinks)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#filehistory)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#file)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector#)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg?useskin=vector)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg)
+- [Iniciar sessão – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:Prefer%C3%AAncias#mw-prefsection-betafeatures)
+- [Iniciar sessão – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:Prefer%C3%AAncias)
+- [Iniciar sessão – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_vigiadas)
+- [Novas páginas – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_novas)
+- [Páginas especiais – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_especiais)
+- [Páginas com hiperligações para "Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg" – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:P%C3%A1ginas_afluentes/Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg)
+- [Iniciar sessão – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:Notifica%C3%A7%C3%B5es)
+- [Mudanças recentes – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:Mudan%C3%A7as_recentes)
+- [Contribuições do(a) utilizador(a) Basedgirl – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Especial:Contribui%C3%A7%C3%B5es/Basedgirl)
+- [(34712) 2001 ON103](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria): asteroide
+- [Ajuda:Página principal – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ajuda:P%C3%A1gina_principal)
+- [Ajuda:Página de testes – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ajuda:P%C3%A1gina_de_testes)
+- [Ajuda:Guia de edição/Como começar uma página – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina)
+- [A criar Usuário(a):Micione – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?action=edit&redlink=1&title=Usu%C3%A1rio%28a%29:Micione)
+- [A criar Usuário(a):Basedgirl/Testes – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?action=edit&editintro=Predefini%C3%A7%C3%A3o%3AP%C3%A1gina+de+testes+de+utilizador&preload=Predefini%C3%A7%C3%A3o%3AP%C3%A1gina+de+testes+de+utilizador%2Fpreload&redlink=1&title=Usu%C3%A1rio%28a%29:Basedgirl/Testes)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?title=Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg&useparsoid=0&useskin=vector)
+- [Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?mobileaction=toggle_view_mobile&title=Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg&useskin=vector)
+- [Iniciar sessão – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?action=watch&title=Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg)
+- [Informações sobre "Ficheiro:Hugues Merle - Mary Magdalene in the Cave.jpg" – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?action=info&title=Ficheiro:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg)
+- [https://pt.wikipedia.org/w/index.php?action=edit&redlink=1&title=Ficheiro_Discuss%C3%A3o:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg](https://pt.wikipedia.org/w/index.php?action=edit&redlink=1&title=Ficheiro_Discuss%C3%A3o:Hugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg)
+- [Encurtador de URL – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?title=Especial:UrlShortener&url=https%3A%2F%2Fpt.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DFicheiro%3AHugues_Merle_-_Mary_Magdalene_in_the_Cave.jpg%26useskin%3Dvector)
+- [Terminar sessão – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/w/index.php?returnto=Ficheiro%3AHugues+Merle+-+Mary+Magdalene+in+the+Cave.jpg&returntoquery=useskin%3Dvector&title=Especial:Sair)
+- [Hugues Merle](https://fr.wikipedia.org/wiki/Hugues_Merle): peintre français
+- [United States Copyright Office](https://en.wikipedia.org/wiki/United_States_Copyright_Office): government body that maintains records of copyright registration in the United States including a copyright catalog
+- [United States](https://en.wikipedia.org/wiki/United_States): country located primarily in North America
+- [Public domain](https://en.wikipedia.org/wiki/public_domain): no exclusive intellectual property rights apply
+- [Union List of Artist Names](https://en.wikipedia.org/wiki/pt:Union_List_of_Artist_Names)
+- [Paris](https://en.wikipedia.org/wiki/pt:Paris): capital e maior cidade da França
+- [La Sône](https://en.wikipedia.org/wiki/pt:La_S%C3%B4ne)
+- [International Standard Name Identifier](https://en.wikipedia.org/wiki/pt:International_Standard_Name_Identifier): identificador de 16 dígitos para pessoas e organizações
+- [Hugues Merle](https://en.wikipedia.org/wiki/pt:Hugues_Merle): pintor francês
+- [Base Virtual Internacional de Autoridade](https://en.wikipedia.org/wiki/pt:Base_Virtual_Internacional_de_Autoridade): base de dados bibliográfica internacional
+- [Private collection](https://en.wikipedia.org/wiki/Private_collection): privately owned collection of works, usually a collection of art
+- [Oil painting - Wikipedia](https://en.wikipedia.org/wiki/oil_on_canvas)
+- [List of copyright duration by country - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries'_copyright_lengths)
+- [List of copyright duration by country - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries'_copyright_length)
+- [XMLHttpRequest - Wikipedia](https://en.wikipedia.org/wiki/en:XMLHttpRequest)
+- [Virtual International Authority File](https://en.wikipedia.org/wiki/en:Virtual_International_Authority_File): OCLC dataset and service that virtually combines multiple name authority files into a single name authority service
+- [Union List of Artist Names](https://en.wikipedia.org/wiki/en:Union_List_of_Artist_Names): thesaurus of artists and people by the Getty Research Institute
+- [Paris](https://en.wikipedia.org/wiki/en:Paris): capital and most populous city in France
+- [Painting - Wikipedia](https://en.wikipedia.org/wiki/en:Painting_%28object%29)
+- [MusicBrainz - Wikipedia](https://en.wikipedia.org/wiki/en:MBA_%28identifier%29)
+- [Library of Congress Control Number - Wikipedia](https://en.wikipedia.org/wiki/en:LCCN_%28identifier%29)
+- [La Sône](https://en.wikipedia.org/wiki/en:La_S%C3%B4ne): commune in Isère, France
+- [International Standard Name Identifier](https://en.wikipedia.org/wiki/en:International_Standard_Name_Identifier): authority file with 16-digit identifier for people and organisations
+- [Hugues Merle](https://en.wikipedia.org/wiki/en:Hugues_Merle): French painter (1822-1881)
+- [Integrated Authority File - Wikipedia](https://en.wikipedia.org/wiki/en:GND_%28identifier%29)
+- [Authority control - Wikipedia](https://en.wikipedia.org/wiki/en:Authority_file)
+- [Faça o seu donativo agora - Wikimedia Foundation](https://donate.wikimedia.org/?uselang=pt&wmf_campaign=pt.wikipedia.org&wmf_medium=sidebar&wmf_source=donate): Faça um donativo à Wikimedia Foundation, a organização sem fins lucrativos que aloja a Wikipédia e outros projetos cruciais de conhecimento gratuito. Todos os anos, a generosidade dos 2% de leitores que fazem donativos permite-nos expandir o alcance da Wikipédia e dos seus projetos relacionados. O nosso objetivo é garantir que o conhecimento permanece disponível de forma gratuita para as próximas gerações e, para isso, precisamos do seu apoio.
+- [Https://en](https://rdl.ink/render/https%3A%2F%2Fen.wikipedia.org)

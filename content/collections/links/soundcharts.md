@@ -1,0 +1,1014 @@
+# Soundcharts
+
+- [Top SoundCloud Playlists — This is...](https://soundcharts.com/en/playlists/soundcloud/this-is): Top This is... SoundCloud playlists ranked by followers. Browse This is... playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Radios](https://soundcharts.com/en/playlists/soundcloud/radios): Top Radios SoundCloud playlists ranked by followers. Browse Radios playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Charts](https://soundcharts.com/en/playlists/soundcloud/charts): Top Charts SoundCloud playlists ranked by followers. Browse Charts playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Major](https://soundcharts.com/en/playlists/soundcloud/major): Top Major SoundCloud playlists ranked by followers. Browse Major playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Algotorial](https://soundcharts.com/en/playlists/soundcloud/algotorial): Top Algotorial SoundCloud playlists ranked by followers. Browse Algotorial playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Algorithmic](https://soundcharts.com/en/playlists/soundcloud/algorithmic): Top Algorithmic SoundCloud playlists ranked by followers. Browse Algorithmic playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Curators & Listeners](https://soundcharts.com/en/playlists/soundcloud/curators-listeners): Top Curators & Listeners SoundCloud playlists ranked by followers. Browse Curators & Listeners playlists powered by Soundcharts.
+- [Top SoundCloud Playlists — Editorial](https://soundcharts.com/en/playlists/soundcloud/editorial): Top Editorial SoundCloud playlists ranked by followers. Browse Editorial playlists powered by Soundcharts.
+- [Top SoundCloud Playlists](https://soundcharts.com/en/playlists/soundcloud): Browse the most popular SoundCloud playlists — ranked by followers. Powered by Soundcharts.
+- [Top YouTube Playlists — This is...](https://soundcharts.com/en/playlists/youtube/this-is): Top This is... YouTube playlists ranked by followers. Browse This is... playlists powered by Soundcharts.
+- [Top YouTube Playlists — Radios](https://soundcharts.com/en/playlists/youtube/radios): Top Radios YouTube playlists ranked by followers. Browse Radios playlists powered by Soundcharts.
+- [Top YouTube Playlists — Charts](https://soundcharts.com/en/playlists/youtube/charts): Top Charts YouTube playlists ranked by followers. Browse Charts playlists powered by Soundcharts.
+- [Top YouTube Playlists — Major](https://soundcharts.com/en/playlists/youtube/major): Top Major YouTube playlists ranked by followers. Browse Major playlists powered by Soundcharts.
+- [Top YouTube Playlists — Algotorial](https://soundcharts.com/en/playlists/youtube/algotorial): Top Algotorial YouTube playlists ranked by followers. Browse Algotorial playlists powered by Soundcharts.
+- [Top YouTube Playlists — Algorithmic](https://soundcharts.com/en/playlists/youtube/algorithmic): Top Algorithmic YouTube playlists ranked by followers. Browse Algorithmic playlists powered by Soundcharts.
+- [Top YouTube Playlists — Curators & Listeners](https://soundcharts.com/en/playlists/youtube/curators-listeners): Top Curators & Listeners YouTube playlists ranked by followers. Browse Curators & Listeners playlists powered by Soundcharts.
+- [Top YouTube Playlists — Editorial](https://soundcharts.com/en/playlists/youtube/editorial): Top Editorial YouTube playlists ranked by followers. Browse Editorial playlists powered by Soundcharts.
+- [Top YouTube Playlists](https://soundcharts.com/en/playlists/youtube): Browse the most popular YouTube playlists — ranked by followers. Powered by Soundcharts.
+- [Top Deezer Playlists — This is...](https://soundcharts.com/en/playlists/deezer/this-is): Top This is... Deezer playlists ranked by followers. Browse This is... playlists powered by Soundcharts.
+- [Top Deezer Playlists — Radios](https://soundcharts.com/en/playlists/deezer/radios): Top Radios Deezer playlists ranked by followers. Browse Radios playlists powered by Soundcharts.
+- [Top Deezer Playlists — Charts](https://soundcharts.com/en/playlists/deezer/charts): Top Charts Deezer playlists ranked by followers. Browse Charts playlists powered by Soundcharts.
+- [Top Deezer Playlists — Major](https://soundcharts.com/en/playlists/deezer/major): Top Major Deezer playlists ranked by followers. Browse Major playlists powered by Soundcharts.
+- [Top Deezer Playlists — Algotorial](https://soundcharts.com/en/playlists/deezer/algotorial): Top Algotorial Deezer playlists ranked by followers. Browse Algotorial playlists powered by Soundcharts.
+- [Top Deezer Playlists — Algorithmic](https://soundcharts.com/en/playlists/deezer/algorithmic): Top Algorithmic Deezer playlists ranked by followers. Browse Algorithmic playlists powered by Soundcharts.
+- [Top Deezer Playlists — Curators & Listeners](https://soundcharts.com/en/playlists/deezer/curators-listeners): Top Curators & Listeners Deezer playlists ranked by followers. Browse Curators & Listeners playlists powered by Soundcharts.
+- [Top Deezer Playlists — Editorial](https://soundcharts.com/en/playlists/deezer/editorial): Top Editorial Deezer playlists ranked by followers. Browse Editorial playlists powered by Soundcharts.
+- [Top Deezer Playlists](https://soundcharts.com/en/playlists/deezer): Browse the most popular Deezer playlists — ranked by followers. Powered by Soundcharts.
+- [Top Spotify Playlists — This is...](https://soundcharts.com/en/playlists/spotify/this-is): Top This is... Spotify playlists ranked by followers. Browse This is... playlists powered by Soundcharts.
+- [Top Spotify Playlists — Radios](https://soundcharts.com/en/playlists/spotify/radios): Top Radios Spotify playlists ranked by followers. Browse Radios playlists powered by Soundcharts.
+- [Top Spotify Playlists — Charts](https://soundcharts.com/en/playlists/spotify/charts): Top Charts Spotify playlists ranked by followers. Browse Charts playlists powered by Soundcharts.
+- [Top Spotify Playlists — Major](https://soundcharts.com/en/playlists/spotify/major): Top Major Spotify playlists ranked by followers. Browse Major playlists powered by Soundcharts.
+- [Top Spotify Playlists — Algotorial](https://soundcharts.com/en/playlists/spotify/algotorial): Top Algotorial Spotify playlists ranked by followers. Browse Algotorial playlists powered by Soundcharts.
+- [Top Spotify Playlists — Algorithmic](https://soundcharts.com/en/playlists/spotify/algorithmic): Top Algorithmic Spotify playlists ranked by followers. Browse Algorithmic playlists powered by Soundcharts.
+- [Top Spotify Playlists — Curators & Listeners](https://soundcharts.com/en/playlists/spotify/curators-listeners): Top Curators & Listeners Spotify playlists ranked by followers. Browse Curators & Listeners playlists powered by Soundcharts.
+- [Top Spotify Playlists — Editorial](https://soundcharts.com/en/playlists/spotify/editorial): Top Editorial Spotify playlists ranked by followers. Browse Editorial playlists powered by Soundcharts.
+- [Top Spotify Playlists](https://soundcharts.com/en/playlists/spotify): Browse the most popular Spotify playlists — ranked by followers. Powered by Soundcharts.
+- [Playlists](https://soundcharts.com/sitemaps/playlists-00001.xml)
+- [Reverse ISRC Lookup – Paste ISRC, Get Metadata](https://soundcharts.com/en/reverse-isrc-finder): Turn any ISRC into a complete metadata card with distributors, labels, genres, and contributor credits.
+- [Key & BPM Finder – Audio Feature Lookup](https://soundcharts.com/en/audio-finder): Turn any Spotify link into a key, Camelot, BPM, and audio feature card powered by Soundcharts metadata.
+- [Label Finder – Identify Music Labels & Imprints](https://soundcharts.com/en/label-finder): Copy the label credit for any Spotify track and enrich it with ISRC, distributors, genres, and more metadata.
+- [Music Genre Finder – Identify Song Genres](https://soundcharts.com/en/genre-finder): Find the genres associated with any Spotify track and copy them alongside ISRC, labels, distributors, and credits.
+- [Distributor Finder – Identify Music Distributors](https://soundcharts.com/en/distributor-finder): Instantly see who distributes any Spotify track, copy the data, and unlock deeper Soundcharts analytics.
+- [Soundcharts Pricing](https://soundcharts.com/en/pricing/dashboard): Compare dashboard subscriptions, enterprise data shares, and developer API plans. Start with flexible artist credits or scale via custom data delivery starting at $250/month.
+- [Our partners](https://soundcharts.com/en/partners): Discover our diverse network of partners in music distribution, marketing, and more, bringing innovative solutions and features to the music industry.
+- [Soundcharts: Music Analytics Tool](https://soundcharts.com/en): Track 16M artists and 84M songs across streaming, radio, charts, and social media. Real-time music analytics for labels, managers, and artists. Get started free.
+- [Soundcharts Data Sources](https://soundcharts.com/en/datasources): See the music data Soundcharts tracks across streaming, social media, airplay, playlists, charts and metadata: 19M artists, 112M tracks, 24K charts and 2,498 radio stations.
+- [Soundcharts Changelog](https://soundcharts.com/en/changelogs): Track every Soundcharts release: fresh datasets, analytics upgrades, API features, and platform improvements delivered weekly.
+- [Core](https://soundcharts.com/sitemaps/core-00001.xml)
+- [YouTube Analytics: stats for Artists & Pros](https://soundcharts.com/en/youtube-music-analytics): Access real-time YouTube followers, views, charts, and rankings for 19M+ artists.
+- [UPC Lookup API: Album Metadata](https://soundcharts.com/en/upc-api): Find the UPC code of any album with the Soundcharts API. Retrieve artist, label, distributor, and release date metadata in a single request.
+- [X (Twitter) Analytics: stats for Artists & Pros](https://soundcharts.com/en/twitter-analytics): Access real-time X (Twitter) followers, posts, likes, and rankings for 19M+ artists.
+- [TikTok Analytics: Track Growth & Trends](https://soundcharts.com/en/tiktok-analytics): Access real-time TikTok analytics for 19M+ artists. Track song performance, follower growth, video engagement, and more.
+- [Tidal Analytics: stats for Artists & Pros](https://soundcharts.com/en/tidal-analytics): Access real-time Tidal popularity, playlists, charts, and rankings for 19M+ artists.
+- [Terms of Service](https://soundcharts.com/en/terms): Read the Soundcharts terms of use and sale governing access to and use of the service by any person, regardless of how they access the platform.
+- [Streaming Charts: Spotify, Apple Music & TikTok](https://soundcharts.com/en/streaming-charts-monitoring): Track 24K song and album charts across 247 countries, from Spotify Top 200 to Apple Music and TikTok. All platforms in one view.
+- [SoundCloud Analytics: Plays, Followers, Playlists, Charts](https://soundcharts.com/en/soundcloud-analytics): Monitor SoundCloud plays, followers, playlists, and charts for 19M+ artists—updated in real time.
+- [Music data free for students and teachers](https://soundcharts.com/en/soundcharts-for-education): Analyze trends, explore artist performance, and gain real-world music industry insights—all tailored for the classroom and beyond.
+- [Soundcharts for Artists: Track Your Streams, Radio & Charts](https://soundcharts.com/en/soundcharts-for-artists): See your streams, radio spins, playlist adds, and chart positions in one place. Soundcharts gives artists a single view of their career data across platforms.
+- [Song Analytics: Track streams, charts, and TikTok data](https://soundcharts.com/en/song-analytics): Analyze the performance of over 112M songs across Spotify, YouTube, TikTok, radio, charts, and playlists—all in one place.
+- [Musician Social Media Monitoring: Track Instagram & More](https://soundcharts.com/en/social-media-monitoring): Monitor audience metrics and follower growth across YouTube, Instagram, Facebook, TikTok, Spotify, and more. Get a complete view of any artist's fanbase.
+- [Similar Artists API: Find Related Artists](https://soundcharts.com/en/similar-artists-api): Identify artists with shared audiences and styles. Use Soundcharts’ Similar Artists API to power discovery tools, recommendations, and A&R insights.
+- [Shazam Stats: Track Shazam Charts & Discovery Data](https://soundcharts.com/en/shazam-analytics): Access real-time Shazam counts, charts, and rankings for 19M+ artists.
+- [Radio Airplay Monitoring: Track Radio Spins](https://soundcharts.com/en/radio-airplay-monitoring): Track radio airplay across 87 countries with real-time spin detection. Monitor local stations and access accurate global radio charts.
+- [QQ Music Stats: Charts, Playlists & Audience Data](https://soundcharts.com/en/qq-music-analytics): Access real-time QQ Music fans, charts, playlists, and rankings for 14M+ artists.
+- [Privacy Policy](https://soundcharts.com/en/privacy): This privacy policy relates to the processing of personal data and information by Soundcharts S.A.S.
+- [Popularity API: Measure Song & Artist Scores](https://soundcharts.com/en/popularity-api): Analyze song and artist popularity with the Soundcharts API. Retrieve real-time scores, rankings, and performance trends across all platforms.
+- [Playlist Monitoring: Spotify & Apple Music Playlists](https://soundcharts.com/en/playlists-monitoring): Monitor your streaming playlist presence from editorial picks like New Music Friday and Today’s Top Hits to the user-driven longtail playlists.
+- [#1 Music Promoter Software for the Live Music Industry](https://soundcharts.com/en/music-promoter-software): Access real-time, global insights on 7M+ artists, sourced with local audience, radio airplay, media mentions, playlists and charts data.
+- [Music Metadata API: Song, Artist, and Album](https://soundcharts.com/en/music-metadata-api): Access music metadata for 112M+ songs, 19M+ artists, 24M+ albums, 7.3M+ playlists, and 110K+ venues via API.
+- [Music Licensing & Synchronization Data Tools](https://soundcharts.com/en/music-licensing-and-synchronization): Discover tracks, validate sync opportunities, and prepare music licensing pitches with Soundcharts data.
+- [Radio Music Discovery: Find New Tracks for Your Station](https://soundcharts.com/en/music-discovery-for-radio-programmers-and-curators): Understand what's about to break, worldwide, in real-time.
+- [Music Charts & Ranking API](https://soundcharts.com/en/music-charts-api): Access real-time and historical music rankings for songs and artists worldwide. Build custom leaderboards and analytics tools powered by global chart data.
+- [Anghami Analytics: Middle East & North Africa Music Data](https://soundcharts.com/en/middle-eastern-music-market-anghami-analytics): Track streams, chart positions, and follower growth on Anghami. Monitor artist performance across the MENA region's largest music streaming platform.
+- [Melon analytics, likes and charts](https://soundcharts.com/en/korea-melon-analytics-metrics): Artist and song likes, charts, and streams on Melon for 19M+ artists.
+- [ISRC Finder – Official ISRC Lookup](https://soundcharts.com/en/isrc-finder): Lookup verified ISRC codes from any Spotify track and copy distributors, labels, genres, and credits in a single view.
+- [Search and Identify Songs by ISRC Code – Soundcharts API](https://soundcharts.com/en/isrc-api): Find songs and track IDs by ISRC with the Soundcharts API. Automate song lookup, integrate ISRC search, and connect cross-platform music data.
+- [Instagram Analytics for Labels & Artists](https://soundcharts.com/en/instagram-analytics): Build effective Instagram campaigns, optimize your content strategy, and grow your audience with real-time analytics for artists and music pros.
+- [JioSaavn & Gaana Analytics: India Streaming Data & Charts](https://soundcharts.com/en/indian-music-platforms-analytics-jiosaavn-gaana): Track streams, chart positions, playlist adds, and follower growth on JioSaavn and Gaana. India's two largest music platforms, covered in one dashboard.
+- [Facebook Analytics: stats for Artists & Pros](https://soundcharts.com/en/facebook-analytics): Access real-time Facebook fan insights for 19M+ artists.
+- [Download Soundcharts Android, iOS, and Chrome apps](https://soundcharts.com/en/downloads): Download the iOS & Android apps to enjoy the full experience anywhere, anytime.
+- [Deezer Analytics: Track Fans, Playlists & Charts](https://soundcharts.com/en/deezer-analytics): Monitor Deezer fans, playlists, and chart positions for 19M+ artists—updated in real time.
+- [Data tools for publicist and promo teams](https://soundcharts.com/en/data-tools-for-publicist-and-promo-teams): Access real-time and global insights on any of your releases with radio airplay, media mentions, playlists, charts and social data!
+- [Music Data Shares: Historical Data Dumps & Real-Time Data Feeds](https://soundcharts.com/en/data-shares): Music industry data shares delivered as historical dumps and real-time feeds. Monitor the global music industry without data gaps. Track every chart move, metric shift, and metadata update in real time, backed by years of historical data.
+- [Music Publisher Dashboard: Catalog Streams, Radio & Charts](https://soundcharts.com/en/dashboard-for-music-publishers): Track your catalog's streams, radio airplay, playlist adds, and chart positions in one dashboard. Built for music publishers managing rights across platforms.
+- [Why ZART Agency Chose Soundcharts as Their Data Analytics Platform?](https://soundcharts.com/en/customer-stories/zart-agency): Here's how Soundcharts helped ZART Agency to get insights into the artists they work with and, ultimetely, create better shows
+- [How Soundcharts Helps Wizard Promotions Create Better Tours](https://soundcharts.com/en/customer-stories/wizard-promotions): How Wizard Promotions uses Soundcharts to find the right talents to book, optimize tour routes, and run smarter local event promotion campaigns.
+- [China Music Analytics – QQ Music, NetEase, Kugou & More](https://soundcharts.com/en/china-music-analytics): Track charts, playlists, streaming, and audience data across QQ Music, NetEase, Kugou, Kuwo, JOOX, and Weibo with Soundcharts.
+- [Chrome extension](https://soundcharts.com/en/browser-extension-welcome): Thanks for adding the browser/Chrome extension!
+- [It won't be the same without you!](https://soundcharts.com/en/browser-extension-uninstall): Did you remove the Soundcharts extension by mistake?
+- [Boomplay analytics, favorites, and charts](https://soundcharts.com/en/boomplay-analytics-africa): Artist and song favorites, charts, and streams on Boomplay for 19M+ artists.
+- [Audio Features API: BPM, Key & Time Signature](https://soundcharts.com/en/audio-features-api): Turn raw tracks into structured BPM, key, time signature, danceability, and mood data via a single audio features API.
+- [Artist Analytics: Streams, Airplay & Charts](https://soundcharts.com/en/artist-analytics): Monitor the performance of 19M artists worldwide across streams, audience, airplay, charts, playlists, and concerts.
+- [A&R Discovery Tool: Find Emerging Artists with Data](https://soundcharts.com/en/ar-research-and-business-facing-music-discovery): Make smarter A&R investments by discovering what's about to break worldwide with real-time music data, charts, and artist analytics from Soundcharts.
+- [Apple Music for Artists: Playlists & iTunes Charts](https://soundcharts.com/en/apple-music-analytics): Access Apple Music playlists, charts, iTunes rankings, and Shazam discovery data. Get powerful analytics across the entire Apple music ecosystem.
+- [Music Data API for Labels, Publishers & Teams](https://soundcharts.com/en/api-data-for-music-industry): Access real-time, global & local insights on 3m+ artists, sourced with audience, radio airplay, media mentions, playlists and charts data!
+- [Amazon Music Analytics: stats for Artists & Pros](https://soundcharts.com/en/amazon-music-analytics): Access real-time Amazon Music followers, playlists, charts, and rankings for 19M+ artists.
+- [Soundcharts vs Chartmetric vs Songstats vs Viberate](https://soundcharts.com/en/alternatives): Comparing Soundcharts to Chartmetric, Songstats, or Viberate? We removed our comparison pages. Here's why, and how to decide for yourself with our free tier.
+- [Marketing](https://soundcharts.com/sitemaps/marketing-00001.xml)
+- [Yandex Chart –](https://soundcharts.com/en/charts/yandex/worldwide): Weekly Yandex chart for , updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Vietnam](https://soundcharts.com/en/charts/tiktok/vietnam): Weekly TikTok chart for Vietnam, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Uzbekistan](https://soundcharts.com/en/charts/tiktok/uzbekistan): Weekly TikTok chart for Uzbekistan, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – United States](https://soundcharts.com/en/charts/tiktok/united-states): Weekly TikTok chart for United States, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – United Kingdom](https://soundcharts.com/en/charts/tiktok/united-kingdom): Weekly TikTok chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – United Arab Emirates](https://soundcharts.com/en/charts/tiktok/united-arab-emirates): Weekly TikTok chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Ukraine](https://soundcharts.com/en/charts/tiktok/ukraine): Weekly TikTok chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Türkiye](https://soundcharts.com/en/charts/tiktok/t-rkiye): Weekly TikTok chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Thailand](https://soundcharts.com/en/charts/tiktok/thailand): Weekly TikTok chart for Thailand, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Taiwan](https://soundcharts.com/en/charts/tiktok/taiwan): Weekly TikTok chart for Taiwan, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Switzerland](https://soundcharts.com/en/charts/tiktok/switzerland): Weekly TikTok chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Sweden](https://soundcharts.com/en/charts/tiktok/sweden): Weekly TikTok chart for Sweden, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Spain](https://soundcharts.com/en/charts/tiktok/spain): Weekly TikTok chart for Spain, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – South Korea](https://soundcharts.com/en/charts/tiktok/south-korea): Weekly TikTok chart for South Korea, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – South Africa](https://soundcharts.com/en/charts/tiktok/south-africa): Weekly TikTok chart for South Africa, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Slovakia](https://soundcharts.com/en/charts/tiktok/slovakia): Weekly TikTok chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Singapore](https://soundcharts.com/en/charts/tiktok/singapore): Weekly TikTok chart for Singapore, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Saudi Arabia](https://soundcharts.com/en/charts/tiktok/saudi-arabia): Weekly TikTok chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Romania](https://soundcharts.com/en/charts/tiktok/romania): Weekly TikTok chart for Romania, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Qatar](https://soundcharts.com/en/charts/tiktok/qatar): Weekly TikTok chart for Qatar, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Portugal](https://soundcharts.com/en/charts/tiktok/portugal): Weekly TikTok chart for Portugal, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Poland](https://soundcharts.com/en/charts/tiktok/poland): Weekly TikTok chart for Poland, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Philippines](https://soundcharts.com/en/charts/tiktok/philippines): Weekly TikTok chart for Philippines, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Peru](https://soundcharts.com/en/charts/tiktok/peru): Weekly TikTok chart for Peru, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Pakistan](https://soundcharts.com/en/charts/tiktok/pakistan): Weekly TikTok chart for Pakistan, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Oman](https://soundcharts.com/en/charts/tiktok/oman): Weekly TikTok chart for Oman, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Norway](https://soundcharts.com/en/charts/tiktok/norway): Weekly TikTok chart for Norway, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Nigeria](https://soundcharts.com/en/charts/tiktok/nigeria): Weekly TikTok chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – New Zealand](https://soundcharts.com/en/charts/tiktok/new-zealand): Weekly TikTok chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Netherlands](https://soundcharts.com/en/charts/tiktok/netherlands): Weekly TikTok chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Myanmar (Burma)](https://soundcharts.com/en/charts/tiktok/myanmar-burma): Weekly TikTok chart for Myanmar (Burma), updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Morocco](https://soundcharts.com/en/charts/tiktok/morocco): Weekly TikTok chart for Morocco, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Mexico](https://soundcharts.com/en/charts/tiktok/mexico): Weekly TikTok chart for Mexico, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Malaysia](https://soundcharts.com/en/charts/tiktok/malaysia): Weekly TikTok chart for Malaysia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Macao SAR China](https://soundcharts.com/en/charts/tiktok/macao-sar-china): Weekly TikTok chart for Macao SAR China, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Luxembourg](https://soundcharts.com/en/charts/tiktok/luxembourg): Weekly TikTok chart for Luxembourg, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Lithuania](https://soundcharts.com/en/charts/tiktok/lithuania): Weekly TikTok chart for Lithuania, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Lebanon](https://soundcharts.com/en/charts/tiktok/lebanon): Weekly TikTok chart for Lebanon, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Latvia](https://soundcharts.com/en/charts/tiktok/latvia): Weekly TikTok chart for Latvia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Kuwait](https://soundcharts.com/en/charts/tiktok/kuwait): Weekly TikTok chart for Kuwait, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Kazakhstan](https://soundcharts.com/en/charts/tiktok/kazakhstan): Weekly TikTok chart for Kazakhstan, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Jordan](https://soundcharts.com/en/charts/tiktok/jordan): Weekly TikTok chart for Jordan, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Japan](https://soundcharts.com/en/charts/tiktok/japan): Weekly TikTok chart for Japan, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Italy](https://soundcharts.com/en/charts/tiktok/italy): Weekly TikTok chart for Italy, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Israel](https://soundcharts.com/en/charts/tiktok/israel): Weekly TikTok chart for Israel, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Ireland](https://soundcharts.com/en/charts/tiktok/ireland): Weekly TikTok chart for Ireland, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Iraq](https://soundcharts.com/en/charts/tiktok/iraq): Weekly TikTok chart for Iraq, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Indonesia](https://soundcharts.com/en/charts/tiktok/indonesia): Weekly TikTok chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Iceland](https://soundcharts.com/en/charts/tiktok/iceland): Weekly TikTok chart for Iceland, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Hungary](https://soundcharts.com/en/charts/tiktok/hungary): Weekly TikTok chart for Hungary, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Greece](https://soundcharts.com/en/charts/tiktok/greece): Weekly TikTok chart for Greece, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Germany](https://soundcharts.com/en/charts/tiktok/germany): Weekly TikTok chart for Germany, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – France](https://soundcharts.com/en/charts/tiktok/france): Weekly TikTok chart for France, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Finland](https://soundcharts.com/en/charts/tiktok/finland): Weekly TikTok chart for Finland, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Estonia](https://soundcharts.com/en/charts/tiktok/estonia): Weekly TikTok chart for Estonia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Egypt](https://soundcharts.com/en/charts/tiktok/egypt): Weekly TikTok chart for Egypt, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Denmark](https://soundcharts.com/en/charts/tiktok/denmark): Weekly TikTok chart for Denmark, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Czechia](https://soundcharts.com/en/charts/tiktok/czechia): Weekly TikTok chart for Czechia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Croatia](https://soundcharts.com/en/charts/tiktok/croatia): Weekly TikTok chart for Croatia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Colombia](https://soundcharts.com/en/charts/tiktok/colombia): Weekly TikTok chart for Colombia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Chile](https://soundcharts.com/en/charts/tiktok/chile): Weekly TikTok chart for Chile, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Canada](https://soundcharts.com/en/charts/tiktok/canada): Weekly TikTok chart for Canada, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Cambodia](https://soundcharts.com/en/charts/tiktok/cambodia): Weekly TikTok chart for Cambodia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Bulgaria](https://soundcharts.com/en/charts/tiktok/bulgaria): Weekly TikTok chart for Bulgaria, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Brazil](https://soundcharts.com/en/charts/tiktok/brazil): Weekly TikTok chart for Brazil, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Belgium](https://soundcharts.com/en/charts/tiktok/belgium): Weekly TikTok chart for Belgium, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Belarus](https://soundcharts.com/en/charts/tiktok/belarus): Weekly TikTok chart for Belarus, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Bangladesh](https://soundcharts.com/en/charts/tiktok/bangladesh): Weekly TikTok chart for Bangladesh, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Bahrain](https://soundcharts.com/en/charts/tiktok/bahrain): Weekly TikTok chart for Bahrain, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Austria](https://soundcharts.com/en/charts/tiktok/austria): Weekly TikTok chart for Austria, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Australia](https://soundcharts.com/en/charts/tiktok/australia): Weekly TikTok chart for Australia, updated regularly. Top songs ranked by performance.
+- [TikTok Chart – Argentina](https://soundcharts.com/en/charts/tiktok/argentina): Weekly TikTok chart for Argentina, updated regularly. Top songs ranked by performance.
+- [TikTok Chart –](https://soundcharts.com/en/charts/tiktok/worldwide): Weekly TikTok chart for , updated regularly. Top songs ranked by performance.
+- [Tidal Chart – United States](https://soundcharts.com/en/charts/tidal/united-states): Weekly Tidal chart for United States, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – United Kingdom](https://soundcharts.com/en/charts/tidal/united-kingdom): Weekly Tidal chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Uganda](https://soundcharts.com/en/charts/tidal/uganda): Weekly Tidal chart for Uganda, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Switzerland](https://soundcharts.com/en/charts/tidal/switzerland): Weekly Tidal chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Spain](https://soundcharts.com/en/charts/tidal/spain): Weekly Tidal chart for Spain, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Slovakia](https://soundcharts.com/en/charts/tidal/slovakia): Weekly Tidal chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Serbia](https://soundcharts.com/en/charts/tidal/serbia): Weekly Tidal chart for Serbia, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Puerto Rico](https://soundcharts.com/en/charts/tidal/puerto-rico): Weekly Tidal chart for Puerto Rico, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Portugal](https://soundcharts.com/en/charts/tidal/portugal): Weekly Tidal chart for Portugal, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Poland](https://soundcharts.com/en/charts/tidal/poland): Weekly Tidal chart for Poland, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Mexico](https://soundcharts.com/en/charts/tidal/mexico): Weekly Tidal chart for Mexico, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Italy](https://soundcharts.com/en/charts/tidal/italy): Weekly Tidal chart for Italy, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Germany](https://soundcharts.com/en/charts/tidal/germany): Weekly Tidal chart for Germany, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – France](https://soundcharts.com/en/charts/tidal/france): Weekly Tidal chart for France, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Denmark](https://soundcharts.com/en/charts/tidal/denmark): Weekly Tidal chart for Denmark, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Croatia](https://soundcharts.com/en/charts/tidal/croatia): Weekly Tidal chart for Croatia, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Colombia](https://soundcharts.com/en/charts/tidal/colombia): Weekly Tidal chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Tidal Chart – Brazil](https://soundcharts.com/en/charts/tidal/brazil): Weekly Tidal chart for Brazil, updated regularly. Top songs ranked by performance.
+- [Tidal Chart –](https://soundcharts.com/en/charts/tidal/worldwide): Weekly Tidal chart for , updated regularly. Top songs ranked by performance.
+- [Shazam Chart – Global](https://soundcharts.com/en/charts/shazam/global): Weekly Shazam chart for Global, updated regularly. Top songs ranked by performance.
+- [QQ Music Chart – Global](https://soundcharts.com/en/charts/qq-music/global): Weekly QQ Music chart for Global, updated regularly. Top songs ranked by performance.
+- [Pandora Chart – Global](https://soundcharts.com/en/charts/pandora/global): Weekly Pandora chart for Global, updated regularly. Top songs ranked by performance.
+- [NetEase Chart – China](https://soundcharts.com/en/charts/netease/china): Weekly NetEase chart for China, updated regularly. Top songs ranked by performance.
+- [Melon Chart – Global](https://soundcharts.com/en/charts/melon/global): Weekly Melon chart for Global, updated regularly. Top songs ranked by performance.
+- [Line Music Chart – Japan](https://soundcharts.com/en/charts/line-music/japan): Weekly Line Music chart for Japan, updated regularly. Top songs ranked by performance.
+- [KKBox Chart – Taiwan](https://soundcharts.com/en/charts/kkbox/taiwan): Weekly KKBox chart for Taiwan, updated regularly. Top songs ranked by performance.
+- [KKBox Chart – Singapore](https://soundcharts.com/en/charts/kkbox/singapore): Weekly KKBox chart for Singapore, updated regularly. Top songs ranked by performance.
+- [KKBox Chart – Japan](https://soundcharts.com/en/charts/kkbox/japan): Weekly KKBox chart for Japan, updated regularly. Top songs ranked by performance.
+- [KKBox Chart – Hong Kong SAR China](https://soundcharts.com/en/charts/kkbox/hong-kong-sar-china): Weekly KKBox chart for Hong Kong SAR China, updated regularly. Top songs ranked by performance.
+- [Joox Chart – Global](https://soundcharts.com/en/charts/joox/global): Weekly Joox chart for Global, updated regularly. Top songs ranked by performance.
+- [Jiosaavn Chart – Global](https://soundcharts.com/en/charts/jiosaavn/global): Weekly Jiosaavn chart for Global, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Zimbabwe](https://soundcharts.com/en/charts/itunes/zimbabwe): Weekly iTunes chart for Zimbabwe, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Vietnam](https://soundcharts.com/en/charts/itunes/vietnam): Weekly iTunes chart for Vietnam, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Venezuela](https://soundcharts.com/en/charts/itunes/venezuela): Weekly iTunes chart for Venezuela, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Uzbekistan](https://soundcharts.com/en/charts/itunes/uzbekistan): Weekly iTunes chart for Uzbekistan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – United States](https://soundcharts.com/en/charts/itunes/united-states): Weekly iTunes chart for United States, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – United Kingdom](https://soundcharts.com/en/charts/itunes/united-kingdom): Weekly iTunes chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – United Arab Emirates](https://soundcharts.com/en/charts/itunes/united-arab-emirates): Weekly iTunes chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Ukraine](https://soundcharts.com/en/charts/itunes/ukraine): Weekly iTunes chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Uganda](https://soundcharts.com/en/charts/itunes/uganda): Weekly iTunes chart for Uganda, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Türkiye](https://soundcharts.com/en/charts/itunes/t-rkiye): Weekly iTunes chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Turkmenistan](https://soundcharts.com/en/charts/itunes/turkmenistan): Weekly iTunes chart for Turkmenistan, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/itunes/tunisia](https://soundcharts.com/en/charts/itunes/tunisia)
+- [iTunes Chart – Trinidad & Tobago](https://soundcharts.com/en/charts/itunes/trinidad-tobago): Weekly iTunes chart for Trinidad & Tobago, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Thailand](https://soundcharts.com/en/charts/itunes/thailand): Weekly iTunes chart for Thailand, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Tajikistan](https://soundcharts.com/en/charts/itunes/tajikistan): Weekly iTunes chart for Tajikistan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Taiwan](https://soundcharts.com/en/charts/itunes/taiwan): Weekly iTunes chart for Taiwan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Switzerland](https://soundcharts.com/en/charts/itunes/switzerland): Weekly iTunes chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Sweden](https://soundcharts.com/en/charts/itunes/sweden): Weekly iTunes chart for Sweden, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – St. Kitts & Nevis](https://soundcharts.com/en/charts/itunes/st-kitts-nevis): Weekly iTunes chart for St. Kitts & Nevis, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Sri Lanka](https://soundcharts.com/en/charts/itunes/sri-lanka): Weekly iTunes chart for Sri Lanka, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Spain](https://soundcharts.com/en/charts/itunes/spain): Weekly iTunes chart for Spain, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – South Korea](https://soundcharts.com/en/charts/itunes/south-korea): Weekly iTunes chart for South Korea, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – South Africa](https://soundcharts.com/en/charts/itunes/south-africa): Weekly iTunes chart for South Africa, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Slovenia](https://soundcharts.com/en/charts/itunes/slovenia): Weekly iTunes chart for Slovenia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Slovakia](https://soundcharts.com/en/charts/itunes/slovakia): Weekly iTunes chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Singapore](https://soundcharts.com/en/charts/itunes/singapore): Weekly iTunes chart for Singapore, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/itunes/senegal](https://soundcharts.com/en/charts/itunes/senegal)
+- [iTunes Chart – Saudi Arabia](https://soundcharts.com/en/charts/itunes/saudi-arabia): Weekly iTunes chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Russia](https://soundcharts.com/en/charts/itunes/russia): Weekly iTunes chart for Russia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Romania](https://soundcharts.com/en/charts/itunes/romania): Weekly iTunes chart for Romania, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Qatar](https://soundcharts.com/en/charts/itunes/qatar): Weekly iTunes chart for Qatar, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Portugal](https://soundcharts.com/en/charts/itunes/portugal): Weekly iTunes chart for Portugal, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Poland](https://soundcharts.com/en/charts/itunes/poland): Weekly iTunes chart for Poland, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Philippines](https://soundcharts.com/en/charts/itunes/philippines): Weekly iTunes chart for Philippines, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Peru](https://soundcharts.com/en/charts/itunes/peru): Weekly iTunes chart for Peru, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Paraguay](https://soundcharts.com/en/charts/itunes/paraguay): Weekly iTunes chart for Paraguay, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Papua New Guinea](https://soundcharts.com/en/charts/itunes/papua-new-guinea): Weekly iTunes chart for Papua New Guinea, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Panama](https://soundcharts.com/en/charts/itunes/panama): Weekly iTunes chart for Panama, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Oman](https://soundcharts.com/en/charts/itunes/oman): Weekly iTunes chart for Oman, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Norway](https://soundcharts.com/en/charts/itunes/norway): Weekly iTunes chart for Norway, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Nigeria](https://soundcharts.com/en/charts/itunes/nigeria): Weekly iTunes chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Niger](https://soundcharts.com/en/charts/itunes/niger): Weekly iTunes chart for Niger, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Nicaragua](https://soundcharts.com/en/charts/itunes/nicaragua): Weekly iTunes chart for Nicaragua, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – New Zealand](https://soundcharts.com/en/charts/itunes/new-zealand): Weekly iTunes chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Netherlands](https://soundcharts.com/en/charts/itunes/netherlands): Weekly iTunes chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Nepal](https://soundcharts.com/en/charts/itunes/nepal): Weekly iTunes chart for Nepal, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Namibia](https://soundcharts.com/en/charts/itunes/namibia): Weekly iTunes chart for Namibia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Mozambique](https://soundcharts.com/en/charts/itunes/mozambique): Weekly iTunes chart for Mozambique, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Mongolia](https://soundcharts.com/en/charts/itunes/mongolia): Weekly iTunes chart for Mongolia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Moldova](https://soundcharts.com/en/charts/itunes/moldova): Weekly iTunes chart for Moldova, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Micronesia](https://soundcharts.com/en/charts/itunes/micronesia): Weekly iTunes chart for Micronesia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Mexico](https://soundcharts.com/en/charts/itunes/mexico): Weekly iTunes chart for Mexico, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Mauritius](https://soundcharts.com/en/charts/itunes/mauritius): Weekly iTunes chart for Mauritius, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Malta](https://soundcharts.com/en/charts/itunes/malta): Weekly iTunes chart for Malta, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Malaysia](https://soundcharts.com/en/charts/itunes/malaysia): Weekly iTunes chart for Malaysia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Macao SAR China](https://soundcharts.com/en/charts/itunes/macao-sar-china): Weekly iTunes chart for Macao SAR China, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Luxembourg](https://soundcharts.com/en/charts/itunes/luxembourg): Weekly iTunes chart for Luxembourg, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Lithuania](https://soundcharts.com/en/charts/itunes/lithuania): Weekly iTunes chart for Lithuania, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Lebanon](https://soundcharts.com/en/charts/itunes/lebanon): Weekly iTunes chart for Lebanon, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Latvia](https://soundcharts.com/en/charts/itunes/latvia): Weekly iTunes chart for Latvia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Laos](https://soundcharts.com/en/charts/itunes/laos): Weekly iTunes chart for Laos, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Kyrgyzstan](https://soundcharts.com/en/charts/itunes/kyrgyzstan): Weekly iTunes chart for Kyrgyzstan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Kenya](https://soundcharts.com/en/charts/itunes/kenya): Weekly iTunes chart for Kenya, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Kazakhstan](https://soundcharts.com/en/charts/itunes/kazakhstan): Weekly iTunes chart for Kazakhstan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Jordan](https://soundcharts.com/en/charts/itunes/jordan): Weekly iTunes chart for Jordan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Japan](https://soundcharts.com/en/charts/itunes/japan): Weekly iTunes chart for Japan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Italy](https://soundcharts.com/en/charts/itunes/italy): Weekly iTunes chart for Italy, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Israel](https://soundcharts.com/en/charts/itunes/israel): Weekly iTunes chart for Israel, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Ireland](https://soundcharts.com/en/charts/itunes/ireland): Weekly iTunes chart for Ireland, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Indonesia](https://soundcharts.com/en/charts/itunes/indonesia): Weekly iTunes chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – India](https://soundcharts.com/en/charts/itunes/india): Weekly iTunes chart for India, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/itunes/iceland](https://soundcharts.com/en/charts/itunes/iceland)
+- [iTunes Chart – Hungary](https://soundcharts.com/en/charts/itunes/hungary): Weekly iTunes chart for Hungary, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Hong Kong SAR China](https://soundcharts.com/en/charts/itunes/hong-kong-sar-china): Weekly iTunes chart for Hong Kong SAR China, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Honduras](https://soundcharts.com/en/charts/itunes/honduras): Weekly iTunes chart for Honduras, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Guinea-Bissau](https://soundcharts.com/en/charts/itunes/guinea-bissau): Weekly iTunes chart for Guinea-Bissau, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Guatemala](https://soundcharts.com/en/charts/itunes/guatemala): Weekly iTunes chart for Guatemala, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Grenada](https://soundcharts.com/en/charts/itunes/grenada): Weekly iTunes chart for Grenada, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Greece](https://soundcharts.com/en/charts/itunes/greece): Weekly iTunes chart for Greece, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Ghana](https://soundcharts.com/en/charts/itunes/ghana): Weekly iTunes chart for Ghana, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Germany](https://soundcharts.com/en/charts/itunes/germany): Weekly iTunes chart for Germany, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Gambia](https://soundcharts.com/en/charts/itunes/gambia): Weekly iTunes chart for Gambia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – France](https://soundcharts.com/en/charts/itunes/france): Weekly iTunes chart for France, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Finland](https://soundcharts.com/en/charts/itunes/finland): Weekly iTunes chart for Finland, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Fiji](https://soundcharts.com/en/charts/itunes/fiji): Weekly iTunes chart for Fiji, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Eswatini](https://soundcharts.com/en/charts/itunes/eswatini): Weekly iTunes chart for Eswatini, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Estonia](https://soundcharts.com/en/charts/itunes/estonia): Weekly iTunes chart for Estonia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – El Salvador](https://soundcharts.com/en/charts/itunes/el-salvador): Weekly iTunes chart for El Salvador, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Egypt](https://soundcharts.com/en/charts/itunes/egypt): Weekly iTunes chart for Egypt, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Ecuador](https://soundcharts.com/en/charts/itunes/ecuador): Weekly iTunes chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Dominican Republic](https://soundcharts.com/en/charts/itunes/dominican-republic): Weekly iTunes chart for Dominican Republic, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Dominica](https://soundcharts.com/en/charts/itunes/dominica): Weekly iTunes chart for Dominica, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Denmark](https://soundcharts.com/en/charts/itunes/denmark): Weekly iTunes chart for Denmark, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Czechia](https://soundcharts.com/en/charts/itunes/czechia): Weekly iTunes chart for Czechia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Cyprus](https://soundcharts.com/en/charts/itunes/cyprus): Weekly iTunes chart for Cyprus, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/itunes/croatia](https://soundcharts.com/en/charts/itunes/croatia)
+- [iTunes Chart – Costa Rica](https://soundcharts.com/en/charts/itunes/costa-rica): Weekly iTunes chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Colombia](https://soundcharts.com/en/charts/itunes/colombia): Weekly iTunes chart for Colombia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Chile](https://soundcharts.com/en/charts/itunes/chile): Weekly iTunes chart for Chile, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Cayman Islands](https://soundcharts.com/en/charts/itunes/cayman-islands): Weekly iTunes chart for Cayman Islands, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Cape Verde](https://soundcharts.com/en/charts/itunes/cape-verde): Weekly iTunes chart for Cape Verde, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Canada](https://soundcharts.com/en/charts/itunes/canada): Weekly iTunes chart for Canada, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Cambodia](https://soundcharts.com/en/charts/itunes/cambodia): Weekly iTunes chart for Cambodia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Bulgaria](https://soundcharts.com/en/charts/itunes/bulgaria): Weekly iTunes chart for Bulgaria, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Brunei](https://soundcharts.com/en/charts/itunes/brunei): Weekly iTunes chart for Brunei, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – British Virgin Islands](https://soundcharts.com/en/charts/itunes/british-virgin-islands): Weekly iTunes chart for British Virgin Islands, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Brazil](https://soundcharts.com/en/charts/itunes/brazil): Weekly iTunes chart for Brazil, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Botswana](https://soundcharts.com/en/charts/itunes/botswana): Weekly iTunes chart for Botswana, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Bolivia](https://soundcharts.com/en/charts/itunes/bolivia): Weekly iTunes chart for Bolivia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Bermuda](https://soundcharts.com/en/charts/itunes/bermuda): Weekly iTunes chart for Bermuda, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Belize](https://soundcharts.com/en/charts/itunes/belize): Weekly iTunes chart for Belize, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Belgium](https://soundcharts.com/en/charts/itunes/belgium): Weekly iTunes chart for Belgium, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Belarus](https://soundcharts.com/en/charts/itunes/belarus): Weekly iTunes chart for Belarus, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Barbados](https://soundcharts.com/en/charts/itunes/barbados): Weekly iTunes chart for Barbados, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Bahrain](https://soundcharts.com/en/charts/itunes/bahrain): Weekly iTunes chart for Bahrain, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Bahamas](https://soundcharts.com/en/charts/itunes/bahamas): Weekly iTunes chart for Bahamas, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Azerbaijan](https://soundcharts.com/en/charts/itunes/azerbaijan): Weekly iTunes chart for Azerbaijan, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Austria](https://soundcharts.com/en/charts/itunes/austria): Weekly iTunes chart for Austria, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Australia](https://soundcharts.com/en/charts/itunes/australia): Weekly iTunes chart for Australia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Armenia](https://soundcharts.com/en/charts/itunes/armenia): Weekly iTunes chart for Armenia, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Argentina](https://soundcharts.com/en/charts/itunes/argentina): Weekly iTunes chart for Argentina, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Antigua & Barbuda](https://soundcharts.com/en/charts/itunes/antigua-barbuda): Weekly iTunes chart for Antigua & Barbuda, updated regularly. Top songs ranked by performance.
+- [iTunes Chart – Anguilla](https://soundcharts.com/en/charts/itunes/anguilla): Weekly iTunes chart for Anguilla, updated regularly. Top songs ranked by performance.
+- [Genius Chart –](https://soundcharts.com/en/charts/genius/worldwide): Weekly Genius chart for , updated regularly. Top songs ranked by performance.
+- [Gaana Chart –](https://soundcharts.com/en/charts/gaana/worldwide): Weekly Gaana chart for , updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – United States](https://soundcharts.com/en/charts/boomplay/united-states): Weekly Boomplay chart for United States, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – United Kingdom](https://soundcharts.com/en/charts/boomplay/united-kingdom): Weekly Boomplay chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Türkiye](https://soundcharts.com/en/charts/boomplay/turkiye): Weekly Boomplay chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Tanzania](https://soundcharts.com/en/charts/boomplay/tanzania): Weekly Boomplay chart for Tanzania, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Philippines](https://soundcharts.com/en/charts/boomplay/philippines): Weekly Boomplay chart for Philippines, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Kenya](https://soundcharts.com/en/charts/boomplay/kenya): Weekly Boomplay chart for Kenya, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – France](https://soundcharts.com/en/charts/boomplay/france): Weekly Boomplay chart for France, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Colombia](https://soundcharts.com/en/charts/boomplay/colombia): Weekly Boomplay chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Bangladesh](https://soundcharts.com/en/charts/boomplay/bangladesh): Weekly Boomplay chart for Bangladesh, updated regularly. Top songs ranked by performance.
+- [Boomplay Chart – Global](https://soundcharts.com/en/charts/boomplay/global): Weekly Boomplay chart for Global, updated regularly. Top songs ranked by performance.
+- [Beatport Chart –](https://soundcharts.com/en/charts/beatport/worldwide): Weekly Beatport chart for , updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Zimbabwe](https://soundcharts.com/en/charts/audiomack/zimbabwe): Weekly Audiomack chart for Zimbabwe, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Zambia](https://soundcharts.com/en/charts/audiomack/zambia): Weekly Audiomack chart for Zambia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Venezuela](https://soundcharts.com/en/charts/audiomack/venezuela): Weekly Audiomack chart for Venezuela, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – United States](https://soundcharts.com/en/charts/audiomack/united-states): Weekly Audiomack chart for United States, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – United Kingdom](https://soundcharts.com/en/charts/audiomack/united-kingdom): Weekly Audiomack chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – United Arab Emirates](https://soundcharts.com/en/charts/audiomack/united-arab-emirates): Weekly Audiomack chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Uganda](https://soundcharts.com/en/charts/audiomack/uganda): Weekly Audiomack chart for Uganda, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – U.S. Virgin Islands](https://soundcharts.com/en/charts/audiomack/u-s-virgin-islands): Weekly Audiomack chart for U.S. Virgin Islands, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Türkiye](https://soundcharts.com/en/charts/audiomack/turkiye): Weekly Audiomack chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Turks & Caicos Islands](https://soundcharts.com/en/charts/audiomack/turks-caicos-islands): Weekly Audiomack chart for Turks & Caicos Islands, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Trinidad & Tobago](https://soundcharts.com/en/charts/audiomack/trinidad-tobago): Weekly Audiomack chart for Trinidad & Tobago, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Togo](https://soundcharts.com/en/charts/audiomack/togo): Weekly Audiomack chart for Togo, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Tanzania](https://soundcharts.com/en/charts/audiomack/tanzania): Weekly Audiomack chart for Tanzania, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Switzerland](https://soundcharts.com/en/charts/audiomack/switzerland): Weekly Audiomack chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Sweden](https://soundcharts.com/en/charts/audiomack/sweden): Weekly Audiomack chart for Sweden, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Sudan](https://soundcharts.com/en/charts/audiomack/sudan): Weekly Audiomack chart for Sudan, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – St. Vincent & Grenadines](https://soundcharts.com/en/charts/audiomack/st-vincent-grenadines): Weekly Audiomack chart for St. Vincent & Grenadines, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – St. Lucia](https://soundcharts.com/en/charts/audiomack/st-lucia): Weekly Audiomack chart for St. Lucia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Sri Lanka](https://soundcharts.com/en/charts/audiomack/sri-lanka): Weekly Audiomack chart for Sri Lanka, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Spain](https://soundcharts.com/en/charts/audiomack/spain): Weekly Audiomack chart for Spain, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – South Sudan](https://soundcharts.com/en/charts/audiomack/south-sudan): Weekly Audiomack chart for South Sudan, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – South Africa](https://soundcharts.com/en/charts/audiomack/south-africa): Weekly Audiomack chart for South Africa, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Singapore](https://soundcharts.com/en/charts/audiomack/singapore): Weekly Audiomack chart for Singapore, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Sierra Leone](https://soundcharts.com/en/charts/audiomack/sierra-leone): Weekly Audiomack chart for Sierra Leone, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Seychelles](https://soundcharts.com/en/charts/audiomack/seychelles): Weekly Audiomack chart for Seychelles, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Serbia](https://soundcharts.com/en/charts/audiomack/serbia): Weekly Audiomack chart for Serbia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Senegal](https://soundcharts.com/en/charts/audiomack/senegal): Weekly Audiomack chart for Senegal, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Saudi Arabia](https://soundcharts.com/en/charts/audiomack/saudi-arabia): Weekly Audiomack chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Rwanda](https://soundcharts.com/en/charts/audiomack/rwanda): Weekly Audiomack chart for Rwanda, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Qatar](https://soundcharts.com/en/charts/audiomack/qatar): Weekly Audiomack chart for Qatar, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Puerto Rico](https://soundcharts.com/en/charts/audiomack/puerto-rico): Weekly Audiomack chart for Puerto Rico, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Portugal](https://soundcharts.com/en/charts/audiomack/portugal): Weekly Audiomack chart for Portugal, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Poland](https://soundcharts.com/en/charts/audiomack/poland): Weekly Audiomack chart for Poland, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Philippines](https://soundcharts.com/en/charts/audiomack/philippines): Weekly Audiomack chart for Philippines, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Peru](https://soundcharts.com/en/charts/audiomack/peru): Weekly Audiomack chart for Peru, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Pakistan](https://soundcharts.com/en/charts/audiomack/pakistan): Weekly Audiomack chart for Pakistan, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – North Macedonia](https://soundcharts.com/en/charts/audiomack/north-macedonia): Weekly Audiomack chart for North Macedonia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Nigeria](https://soundcharts.com/en/charts/audiomack/nigeria): Weekly Audiomack chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Niger](https://soundcharts.com/en/charts/audiomack/niger): Weekly Audiomack chart for Niger, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Nicaragua](https://soundcharts.com/en/charts/audiomack/nicaragua): Weekly Audiomack chart for Nicaragua, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – New Zealand](https://soundcharts.com/en/charts/audiomack/new-zealand): Weekly Audiomack chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Netherlands](https://soundcharts.com/en/charts/audiomack/netherlands): Weekly Audiomack chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Nepal](https://soundcharts.com/en/charts/audiomack/nepal): Weekly Audiomack chart for Nepal, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Namibia](https://soundcharts.com/en/charts/audiomack/namibia): Weekly Audiomack chart for Namibia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Mozambique](https://soundcharts.com/en/charts/audiomack/mozambique): Weekly Audiomack chart for Mozambique, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Morocco](https://soundcharts.com/en/charts/audiomack/morocco): Weekly Audiomack chart for Morocco, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Mexico](https://soundcharts.com/en/charts/audiomack/mexico): Weekly Audiomack chart for Mexico, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Mali](https://soundcharts.com/en/charts/audiomack/mali): Weekly Audiomack chart for Mali, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Malawi](https://soundcharts.com/en/charts/audiomack/malawi): Weekly Audiomack chart for Malawi, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Libya](https://soundcharts.com/en/charts/audiomack/libya): Weekly Audiomack chart for Libya, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Liberia](https://soundcharts.com/en/charts/audiomack/liberia): Weekly Audiomack chart for Liberia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Kenya](https://soundcharts.com/en/charts/audiomack/kenya): Weekly Audiomack chart for Kenya, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Jamaica](https://soundcharts.com/en/charts/audiomack/jamaica): Weekly Audiomack chart for Jamaica, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Italy](https://soundcharts.com/en/charts/audiomack/italy): Weekly Audiomack chart for Italy, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Ireland](https://soundcharts.com/en/charts/audiomack/ireland): Weekly Audiomack chart for Ireland, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – India](https://soundcharts.com/en/charts/audiomack/india): Weekly Audiomack chart for India, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Honduras](https://soundcharts.com/en/charts/audiomack/honduras): Weekly Audiomack chart for Honduras, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Haiti](https://soundcharts.com/en/charts/audiomack/haiti): Weekly Audiomack chart for Haiti, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Guyana](https://soundcharts.com/en/charts/audiomack/guyana): Weekly Audiomack chart for Guyana, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Guinea](https://soundcharts.com/en/charts/audiomack/guinea): Weekly Audiomack chart for Guinea, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Guatemala](https://soundcharts.com/en/charts/audiomack/guatemala): Weekly Audiomack chart for Guatemala, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Grenada](https://soundcharts.com/en/charts/audiomack/grenada): Weekly Audiomack chart for Grenada, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Greece](https://soundcharts.com/en/charts/audiomack/greece): Weekly Audiomack chart for Greece, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Ghana](https://soundcharts.com/en/charts/audiomack/ghana): Weekly Audiomack chart for Ghana, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Germany](https://soundcharts.com/en/charts/audiomack/germany): Weekly Audiomack chart for Germany, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Gambia](https://soundcharts.com/en/charts/audiomack/gambia): Weekly Audiomack chart for Gambia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Gabon](https://soundcharts.com/en/charts/audiomack/gabon): Weekly Audiomack chart for Gabon, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – France](https://soundcharts.com/en/charts/audiomack/france): Weekly Audiomack chart for France, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – El Salvador](https://soundcharts.com/en/charts/audiomack/el-salvador): Weekly Audiomack chart for El Salvador, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Egypt](https://soundcharts.com/en/charts/audiomack/egypt): Weekly Audiomack chart for Egypt, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Ecuador](https://soundcharts.com/en/charts/audiomack/ecuador): Weekly Audiomack chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Dominican Republic](https://soundcharts.com/en/charts/audiomack/dominican-republic): Weekly Audiomack chart for Dominican Republic, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Côte d’Ivoire](https://soundcharts.com/en/charts/audiomack/cote-divoire): Weekly Audiomack chart for Côte d’Ivoire, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Cyprus](https://soundcharts.com/en/charts/audiomack/cyprus): Weekly Audiomack chart for Cyprus, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Costa Rica](https://soundcharts.com/en/charts/audiomack/costa-rica): Weekly Audiomack chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Congo - Kinshasa](https://soundcharts.com/en/charts/audiomack/congo-kinshasa): Weekly Audiomack chart for Congo - Kinshasa, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Congo - Brazzaville](https://soundcharts.com/en/charts/audiomack/congo-brazzaville): Weekly Audiomack chart for Congo - Brazzaville, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Colombia](https://soundcharts.com/en/charts/audiomack/colombia): Weekly Audiomack chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – China](https://soundcharts.com/en/charts/audiomack/china): Weekly Audiomack chart for China, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Chile](https://soundcharts.com/en/charts/audiomack/chile): Weekly Audiomack chart for Chile, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Cayman Islands](https://soundcharts.com/en/charts/audiomack/cayman-islands): Weekly Audiomack chart for Cayman Islands, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Canada](https://soundcharts.com/en/charts/audiomack/canada): Weekly Audiomack chart for Canada, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Cameroon](https://soundcharts.com/en/charts/audiomack/cameroon): Weekly Audiomack chart for Cameroon, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Burkina Faso](https://soundcharts.com/en/charts/audiomack/burkina-faso): Weekly Audiomack chart for Burkina Faso, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Brazil](https://soundcharts.com/en/charts/audiomack/brazil): Weekly Audiomack chart for Brazil, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Botswana](https://soundcharts.com/en/charts/audiomack/botswana): Weekly Audiomack chart for Botswana, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Benin](https://soundcharts.com/en/charts/audiomack/benin): Weekly Audiomack chart for Benin, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Belize](https://soundcharts.com/en/charts/audiomack/belize): Weekly Audiomack chart for Belize, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Belgium](https://soundcharts.com/en/charts/audiomack/belgium): Weekly Audiomack chart for Belgium, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Barbados](https://soundcharts.com/en/charts/audiomack/barbados): Weekly Audiomack chart for Barbados, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Bahamas](https://soundcharts.com/en/charts/audiomack/bahamas): Weekly Audiomack chart for Bahamas, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Austria](https://soundcharts.com/en/charts/audiomack/austria): Weekly Audiomack chart for Austria, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Australia](https://soundcharts.com/en/charts/audiomack/australia): Weekly Audiomack chart for Australia, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Argentina](https://soundcharts.com/en/charts/audiomack/argentina): Weekly Audiomack chart for Argentina, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Antigua & Barbuda](https://soundcharts.com/en/charts/audiomack/antigua-barbuda): Weekly Audiomack chart for Antigua & Barbuda, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Algeria](https://soundcharts.com/en/charts/audiomack/algeria): Weekly Audiomack chart for Algeria, updated regularly. Top songs ranked by performance.
+- [Audiomack Chart – Albania](https://soundcharts.com/en/charts/audiomack/albania): Weekly Audiomack chart for Albania, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Zimbabwe](https://soundcharts.com/en/charts/apple-music/zimbabwe): Weekly Apple Music chart for Zimbabwe, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Yemen](https://soundcharts.com/en/charts/apple-music/yemen): Weekly Apple Music chart for Yemen, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Vietnam](https://soundcharts.com/en/charts/apple-music/vietnam): Weekly Apple Music chart for Vietnam, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Venezuela](https://soundcharts.com/en/charts/apple-music/venezuela): Weekly Apple Music chart for Venezuela, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Uzbekistan](https://soundcharts.com/en/charts/apple-music/uzbekistan): Weekly Apple Music chart for Uzbekistan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Uruguay](https://soundcharts.com/en/charts/apple-music/uruguay): Weekly Apple Music chart for Uruguay, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – United States](https://soundcharts.com/en/charts/apple-music/united-states): Weekly Apple Music chart for United States, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – United Kingdom](https://soundcharts.com/en/charts/apple-music/united-kingdom): Weekly Apple Music chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – United Arab Emirates](https://soundcharts.com/en/charts/apple-music/united-arab-emirates): Weekly Apple Music chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Ukraine](https://soundcharts.com/en/charts/apple-music/ukraine): Weekly Apple Music chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Uganda](https://soundcharts.com/en/charts/apple-music/uganda): Weekly Apple Music chart for Uganda, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Türkiye](https://soundcharts.com/en/charts/apple-music/t-rkiye): Weekly Apple Music chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Turks & Caicos Islands](https://soundcharts.com/en/charts/apple-music/turks-caicos-islands): Weekly Apple Music chart for Turks & Caicos Islands, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Turkmenistan](https://soundcharts.com/en/charts/apple-music/turkmenistan): Weekly Apple Music chart for Turkmenistan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Tunisia](https://soundcharts.com/en/charts/apple-music/tunisia): Weekly Apple Music chart for Tunisia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Trinidad & Tobago](https://soundcharts.com/en/charts/apple-music/trinidad-tobago): Weekly Apple Music chart for Trinidad & Tobago, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Thailand](https://soundcharts.com/en/charts/apple-music/thailand): Weekly Apple Music chart for Thailand, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Tanzania](https://soundcharts.com/en/charts/apple-music/tanzania): Weekly Apple Music chart for Tanzania, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Tajikistan](https://soundcharts.com/en/charts/apple-music/tajikistan): Weekly Apple Music chart for Tajikistan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Taiwan](https://soundcharts.com/en/charts/apple-music/taiwan): Weekly Apple Music chart for Taiwan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Switzerland](https://soundcharts.com/en/charts/apple-music/switzerland): Weekly Apple Music chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Sweden](https://soundcharts.com/en/charts/apple-music/sweden): Weekly Apple Music chart for Sweden, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Suriname](https://soundcharts.com/en/charts/apple-music/suriname): Weekly Apple Music chart for Suriname, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – St. Vincent & Grenadines](https://soundcharts.com/en/charts/apple-music/st-vincent-grenadines): Weekly Apple Music chart for St. Vincent & Grenadines, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – St. Lucia](https://soundcharts.com/en/charts/apple-music/st-lucia): Weekly Apple Music chart for St. Lucia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – St. Kitts & Nevis](https://soundcharts.com/en/charts/apple-music/st-kitts-nevis): Weekly Apple Music chart for St. Kitts & Nevis, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Sri Lanka](https://soundcharts.com/en/charts/apple-music/sri-lanka): Weekly Apple Music chart for Sri Lanka, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Spain](https://soundcharts.com/en/charts/apple-music/spain): Weekly Apple Music chart for Spain, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – South Korea](https://soundcharts.com/en/charts/apple-music/south-korea): Weekly Apple Music chart for South Korea, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – South Africa](https://soundcharts.com/en/charts/apple-music/south-africa): Weekly Apple Music chart for South Africa, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Solomon Islands](https://soundcharts.com/en/charts/apple-music/solomon-islands): Weekly Apple Music chart for Solomon Islands, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Slovenia](https://soundcharts.com/en/charts/apple-music/slovenia): Weekly Apple Music chart for Slovenia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Slovakia](https://soundcharts.com/en/charts/apple-music/slovakia): Weekly Apple Music chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Singapore](https://soundcharts.com/en/charts/apple-music/singapore): Weekly Apple Music chart for Singapore, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Sierra Leone](https://soundcharts.com/en/charts/apple-music/sierra-leone): Weekly Apple Music chart for Sierra Leone, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Seychelles](https://soundcharts.com/en/charts/apple-music/seychelles): Weekly Apple Music chart for Seychelles, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Serbia](https://soundcharts.com/en/charts/apple-music/serbia): Weekly Apple Music chart for Serbia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Senegal](https://soundcharts.com/en/charts/apple-music/senegal): Weekly Apple Music chart for Senegal, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Saudi Arabia](https://soundcharts.com/en/charts/apple-music/saudi-arabia): Weekly Apple Music chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Russia](https://soundcharts.com/en/charts/apple-music/russia): Weekly Apple Music chart for Russia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Romania](https://soundcharts.com/en/charts/apple-music/romania): Weekly Apple Music chart for Romania, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Qatar](https://soundcharts.com/en/charts/apple-music/qatar): Weekly Apple Music chart for Qatar, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Puerto Rico](https://soundcharts.com/en/charts/apple-music/puerto-rico): Weekly Apple Music chart for Puerto Rico, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Portugal](https://soundcharts.com/en/charts/apple-music/portugal): Weekly Apple Music chart for Portugal, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Poland](https://soundcharts.com/en/charts/apple-music/poland): Weekly Apple Music chart for Poland, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Philippines](https://soundcharts.com/en/charts/apple-music/philippines): Weekly Apple Music chart for Philippines, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Peru](https://soundcharts.com/en/charts/apple-music/peru): Weekly Apple Music chart for Peru, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Paraguay](https://soundcharts.com/en/charts/apple-music/paraguay): Weekly Apple Music chart for Paraguay, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Papua New Guinea](https://soundcharts.com/en/charts/apple-music/papua-new-guinea): Weekly Apple Music chart for Papua New Guinea, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Panama](https://soundcharts.com/en/charts/apple-music/panama): Weekly Apple Music chart for Panama, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Oman](https://soundcharts.com/en/charts/apple-music/oman): Weekly Apple Music chart for Oman, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Norway](https://soundcharts.com/en/charts/apple-music/norway): Weekly Apple Music chart for Norway, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – North Macedonia](https://soundcharts.com/en/charts/apple-music/north-macedonia): Weekly Apple Music chart for North Macedonia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Nigeria](https://soundcharts.com/en/charts/apple-music/nigeria): Weekly Apple Music chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Niger](https://soundcharts.com/en/charts/apple-music/niger): Weekly Apple Music chart for Niger, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Nicaragua](https://soundcharts.com/en/charts/apple-music/nicaragua): Weekly Apple Music chart for Nicaragua, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – New Zealand](https://soundcharts.com/en/charts/apple-music/new-zealand): Weekly Apple Music chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Netherlands](https://soundcharts.com/en/charts/apple-music/netherlands): Weekly Apple Music chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Nepal](https://soundcharts.com/en/charts/apple-music/nepal): Weekly Apple Music chart for Nepal, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Namibia](https://soundcharts.com/en/charts/apple-music/namibia): Weekly Apple Music chart for Namibia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Myanmar (Burma)](https://soundcharts.com/en/charts/apple-music/myanmar-burma): Weekly Apple Music chart for Myanmar (Burma), updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Mozambique](https://soundcharts.com/en/charts/apple-music/mozambique): Weekly Apple Music chart for Mozambique, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Montserrat](https://soundcharts.com/en/charts/apple-music/montserrat): Weekly Apple Music chart for Montserrat, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Mongolia](https://soundcharts.com/en/charts/apple-music/mongolia): Weekly Apple Music chart for Mongolia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Moldova](https://soundcharts.com/en/charts/apple-music/moldova): Weekly Apple Music chart for Moldova, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Micronesia](https://soundcharts.com/en/charts/apple-music/micronesia): Weekly Apple Music chart for Micronesia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Mexico](https://soundcharts.com/en/charts/apple-music/mexico): Weekly Apple Music chart for Mexico, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Mauritius](https://soundcharts.com/en/charts/apple-music/mauritius): Weekly Apple Music chart for Mauritius, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Malta](https://soundcharts.com/en/charts/apple-music/malta): Weekly Apple Music chart for Malta, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Mali](https://soundcharts.com/en/charts/apple-music/mali): Weekly Apple Music chart for Mali, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Maldives](https://soundcharts.com/en/charts/apple-music/maldives): Weekly Apple Music chart for Maldives, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Malaysia](https://soundcharts.com/en/charts/apple-music/malaysia): Weekly Apple Music chart for Malaysia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Malawi](https://soundcharts.com/en/charts/apple-music/malawi): Weekly Apple Music chart for Malawi, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Madagascar](https://soundcharts.com/en/charts/apple-music/madagascar): Weekly Apple Music chart for Madagascar, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Macao SAR China](https://soundcharts.com/en/charts/apple-music/macao-sar-china): Weekly Apple Music chart for Macao SAR China, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Luxembourg](https://soundcharts.com/en/charts/apple-music/luxembourg): Weekly Apple Music chart for Luxembourg, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Lithuania](https://soundcharts.com/en/charts/apple-music/lithuania): Weekly Apple Music chart for Lithuania, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Libya](https://soundcharts.com/en/charts/apple-music/libya): Weekly Apple Music chart for Libya, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Liberia](https://soundcharts.com/en/charts/apple-music/liberia): Weekly Apple Music chart for Liberia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Lebanon](https://soundcharts.com/en/charts/apple-music/lebanon): Weekly Apple Music chart for Lebanon, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Latvia](https://soundcharts.com/en/charts/apple-music/latvia): Weekly Apple Music chart for Latvia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Laos](https://soundcharts.com/en/charts/apple-music/laos): Weekly Apple Music chart for Laos, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Kyrgyzstan](https://soundcharts.com/en/charts/apple-music/kyrgyzstan): Weekly Apple Music chart for Kyrgyzstan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Kuwait](https://soundcharts.com/en/charts/apple-music/kuwait): Weekly Apple Music chart for Kuwait, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Kenya](https://soundcharts.com/en/charts/apple-music/kenya): Weekly Apple Music chart for Kenya, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Kazakhstan](https://soundcharts.com/en/charts/apple-music/kazakhstan): Weekly Apple Music chart for Kazakhstan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Jordan](https://soundcharts.com/en/charts/apple-music/jordan): Weekly Apple Music chart for Jordan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Japan](https://soundcharts.com/en/charts/apple-music/japan): Weekly Apple Music chart for Japan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Jamaica](https://soundcharts.com/en/charts/apple-music/jamaica): Weekly Apple Music chart for Jamaica, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Italy](https://soundcharts.com/en/charts/apple-music/italy): Weekly Apple Music chart for Italy, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Israel](https://soundcharts.com/en/charts/apple-music/israel): Weekly Apple Music chart for Israel, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Ireland](https://soundcharts.com/en/charts/apple-music/ireland): Weekly Apple Music chart for Ireland, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Indonesia](https://soundcharts.com/en/charts/apple-music/indonesia): Weekly Apple Music chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – India](https://soundcharts.com/en/charts/apple-music/india): Weekly Apple Music chart for India, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Iceland](https://soundcharts.com/en/charts/apple-music/iceland): Weekly Apple Music chart for Iceland, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Hungary](https://soundcharts.com/en/charts/apple-music/hungary): Weekly Apple Music chart for Hungary, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Hong Kong SAR China](https://soundcharts.com/en/charts/apple-music/hong-kong-sar-china): Weekly Apple Music chart for Hong Kong SAR China, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Honduras](https://soundcharts.com/en/charts/apple-music/honduras): Weekly Apple Music chart for Honduras, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Guyana](https://soundcharts.com/en/charts/apple-music/guyana): Weekly Apple Music chart for Guyana, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Guinea-Bissau](https://soundcharts.com/en/charts/apple-music/guinea-bissau): Weekly Apple Music chart for Guinea-Bissau, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Guatemala](https://soundcharts.com/en/charts/apple-music/guatemala): Weekly Apple Music chart for Guatemala, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Grenada](https://soundcharts.com/en/charts/apple-music/grenada): Weekly Apple Music chart for Grenada, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Greece](https://soundcharts.com/en/charts/apple-music/greece): Weekly Apple Music chart for Greece, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Ghana](https://soundcharts.com/en/charts/apple-music/ghana): Weekly Apple Music chart for Ghana, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Germany](https://soundcharts.com/en/charts/apple-music/germany): Weekly Apple Music chart for Germany, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Gambia](https://soundcharts.com/en/charts/apple-music/gambia): Weekly Apple Music chart for Gambia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – France](https://soundcharts.com/en/charts/apple-music/france): Weekly Apple Music chart for France, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Finland](https://soundcharts.com/en/charts/apple-music/finland): Weekly Apple Music chart for Finland, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Fiji](https://soundcharts.com/en/charts/apple-music/fiji): Weekly Apple Music chart for Fiji, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Eswatini](https://soundcharts.com/en/charts/apple-music/eswatini): Weekly Apple Music chart for Eswatini, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Estonia](https://soundcharts.com/en/charts/apple-music/estonia): Weekly Apple Music chart for Estonia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – El Salvador](https://soundcharts.com/en/charts/apple-music/el-salvador): Weekly Apple Music chart for El Salvador, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Egypt](https://soundcharts.com/en/charts/apple-music/egypt): Weekly Apple Music chart for Egypt, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Ecuador](https://soundcharts.com/en/charts/apple-music/ecuador): Weekly Apple Music chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Dominican Republic](https://soundcharts.com/en/charts/apple-music/dominican-republic): Weekly Apple Music chart for Dominican Republic, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Dominica](https://soundcharts.com/en/charts/apple-music/dominica): Weekly Apple Music chart for Dominica, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Denmark](https://soundcharts.com/en/charts/apple-music/denmark): Weekly Apple Music chart for Denmark, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Côte d’Ivoire](https://soundcharts.com/en/charts/apple-music/c-te-d-ivoire): Weekly Apple Music chart for Côte d’Ivoire, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Czechia](https://soundcharts.com/en/charts/apple-music/czechia): Weekly Apple Music chart for Czechia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Cyprus](https://soundcharts.com/en/charts/apple-music/cyprus): Weekly Apple Music chart for Cyprus, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Croatia](https://soundcharts.com/en/charts/apple-music/croatia): Weekly Apple Music chart for Croatia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Costa Rica](https://soundcharts.com/en/charts/apple-music/costa-rica): Weekly Apple Music chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Congo - Kinshasa](https://soundcharts.com/en/charts/apple-music/congo-kinshasa): Weekly Apple Music chart for Congo - Kinshasa, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Congo - Brazzaville](https://soundcharts.com/en/charts/apple-music/congo-brazzaville): Weekly Apple Music chart for Congo - Brazzaville, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Colombia](https://soundcharts.com/en/charts/apple-music/colombia): Weekly Apple Music chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – China](https://soundcharts.com/en/charts/apple-music/china): Weekly Apple Music chart for China, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Chile](https://soundcharts.com/en/charts/apple-music/chile): Weekly Apple Music chart for Chile, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Chad](https://soundcharts.com/en/charts/apple-music/chad): Weekly Apple Music chart for Chad, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Cayman Islands](https://soundcharts.com/en/charts/apple-music/cayman-islands): Weekly Apple Music chart for Cayman Islands, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Cape Verde](https://soundcharts.com/en/charts/apple-music/cape-verde): Weekly Apple Music chart for Cape Verde, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Canada](https://soundcharts.com/en/charts/apple-music/canada): Weekly Apple Music chart for Canada, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Cameroon](https://soundcharts.com/en/charts/apple-music/cameroon): Weekly Apple Music chart for Cameroon, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Cambodia](https://soundcharts.com/en/charts/apple-music/cambodia): Weekly Apple Music chart for Cambodia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Bulgaria](https://soundcharts.com/en/charts/apple-music/bulgaria): Weekly Apple Music chart for Bulgaria, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – British Virgin Islands](https://soundcharts.com/en/charts/apple-music/british-virgin-islands): Weekly Apple Music chart for British Virgin Islands, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Brazil](https://soundcharts.com/en/charts/apple-music/brazil): Weekly Apple Music chart for Brazil, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Botswana](https://soundcharts.com/en/charts/apple-music/botswana): Weekly Apple Music chart for Botswana, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Bolivia](https://soundcharts.com/en/charts/apple-music/bolivia): Weekly Apple Music chart for Bolivia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Bhutan](https://soundcharts.com/en/charts/apple-music/bhutan): Weekly Apple Music chart for Bhutan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Bermuda](https://soundcharts.com/en/charts/apple-music/bermuda): Weekly Apple Music chart for Bermuda, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Benin](https://soundcharts.com/en/charts/apple-music/benin): Weekly Apple Music chart for Benin, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Belize](https://soundcharts.com/en/charts/apple-music/belize): Weekly Apple Music chart for Belize, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Belgium](https://soundcharts.com/en/charts/apple-music/belgium): Weekly Apple Music chart for Belgium, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Belarus](https://soundcharts.com/en/charts/apple-music/belarus): Weekly Apple Music chart for Belarus, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Barbados](https://soundcharts.com/en/charts/apple-music/barbados): Weekly Apple Music chart for Barbados, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Bahrain](https://soundcharts.com/en/charts/apple-music/bahrain): Weekly Apple Music chart for Bahrain, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Bahamas](https://soundcharts.com/en/charts/apple-music/bahamas): Weekly Apple Music chart for Bahamas, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Azerbaijan](https://soundcharts.com/en/charts/apple-music/azerbaijan): Weekly Apple Music chart for Azerbaijan, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Austria](https://soundcharts.com/en/charts/apple-music/austria): Weekly Apple Music chart for Austria, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Australia](https://soundcharts.com/en/charts/apple-music/australia): Weekly Apple Music chart for Australia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Armenia](https://soundcharts.com/en/charts/apple-music/armenia): Weekly Apple Music chart for Armenia, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Argentina](https://soundcharts.com/en/charts/apple-music/argentina): Weekly Apple Music chart for Argentina, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Antigua & Barbuda](https://soundcharts.com/en/charts/apple-music/antigua-barbuda): Weekly Apple Music chart for Antigua & Barbuda, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Anguilla](https://soundcharts.com/en/charts/apple-music/anguilla): Weekly Apple Music chart for Anguilla, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Angola](https://soundcharts.com/en/charts/apple-music/angola): Weekly Apple Music chart for Angola, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart – Algeria](https://soundcharts.com/en/charts/apple-music/algeria): Weekly Apple Music chart for Algeria, updated regularly. Top songs ranked by performance.
+- [Apple Music Chart –](https://soundcharts.com/en/charts/apple-music/worldwide): Weekly Apple Music chart for , updated regularly. Top songs ranked by performance.
+- [Anghami Chart – Global](https://soundcharts.com/en/charts/anghami/global): Weekly Anghami chart for Global, updated regularly. Top songs ranked by performance.
+- [Amazon Chart –](https://soundcharts.com/en/charts/amazon/worldwide): Weekly Amazon chart for , updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Zimbabwe](https://soundcharts.com/en/charts/airplay/zimbabwe): Weekly Airplay chart for Zimbabwe, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Wallis & Futuna](https://soundcharts.com/en/charts/airplay/wallis-futuna): Weekly Airplay chart for Wallis & Futuna, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Venezuela](https://soundcharts.com/en/charts/airplay/venezuela): Weekly Airplay chart for Venezuela, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Uruguay](https://soundcharts.com/en/charts/airplay/uruguay): Weekly Airplay chart for Uruguay, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – United States](https://soundcharts.com/en/charts/airplay/united-states): Weekly Airplay chart for United States, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – United Kingdom](https://soundcharts.com/en/charts/airplay/united-kingdom): Weekly Airplay chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – United Arab Emirates](https://soundcharts.com/en/charts/airplay/united-arab-emirates): Weekly Airplay chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Ukraine](https://soundcharts.com/en/charts/airplay/ukraine): Weekly Airplay chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Türkiye](https://soundcharts.com/en/charts/airplay/turkiye): Weekly Airplay chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Trinidad & Tobago](https://soundcharts.com/en/charts/airplay/trinidad-tobago): Weekly Airplay chart for Trinidad & Tobago, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Thailand](https://soundcharts.com/en/charts/airplay/thailand): Weekly Airplay chart for Thailand, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Taiwan](https://soundcharts.com/en/charts/airplay/taiwan): Weekly Airplay chart for Taiwan, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Switzerland](https://soundcharts.com/en/charts/airplay/switzerland): Weekly Airplay chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Sweden](https://soundcharts.com/en/charts/airplay/sweden): Weekly Airplay chart for Sweden, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – St. Pierre & Miquelon](https://soundcharts.com/en/charts/airplay/st-pierre-miquelon): Weekly Airplay chart for St. Pierre & Miquelon, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Spain](https://soundcharts.com/en/charts/airplay/spain): Weekly Airplay chart for Spain, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – South Korea](https://soundcharts.com/en/charts/airplay/south-korea): Weekly Airplay chart for South Korea, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – South Africa](https://soundcharts.com/en/charts/airplay/south-africa): Weekly Airplay chart for South Africa, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Slovenia](https://soundcharts.com/en/charts/airplay/slovenia): Weekly Airplay chart for Slovenia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Slovakia](https://soundcharts.com/en/charts/airplay/slovakia): Weekly Airplay chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Singapore](https://soundcharts.com/en/charts/airplay/singapore): Weekly Airplay chart for Singapore, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Seychelles](https://soundcharts.com/en/charts/airplay/seychelles): Weekly Airplay chart for Seychelles, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Serbia](https://soundcharts.com/en/charts/airplay/serbia): Weekly Airplay chart for Serbia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Saudi Arabia](https://soundcharts.com/en/charts/airplay/saudi-arabia): Weekly Airplay chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – San Marino](https://soundcharts.com/en/charts/airplay/san-marino): Weekly Airplay chart for San Marino, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Réunion](https://soundcharts.com/en/charts/airplay/reunion): Weekly Airplay chart for Réunion, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Russia](https://soundcharts.com/en/charts/airplay/russia): Weekly Airplay chart for Russia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Romania](https://soundcharts.com/en/charts/airplay/romania): Weekly Airplay chart for Romania, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Qatar](https://soundcharts.com/en/charts/airplay/qatar): Weekly Airplay chart for Qatar, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/airplay/puerto-rico](https://soundcharts.com/en/charts/airplay/puerto-rico)
+- [Airplay Chart – Portugal](https://soundcharts.com/en/charts/airplay/portugal): Weekly Airplay chart for Portugal, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Poland](https://soundcharts.com/en/charts/airplay/poland): Weekly Airplay chart for Poland, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Philippines](https://soundcharts.com/en/charts/airplay/philippines): Weekly Airplay chart for Philippines, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Peru](https://soundcharts.com/en/charts/airplay/peru): Weekly Airplay chart for Peru, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Oman](https://soundcharts.com/en/charts/airplay/oman): Weekly Airplay chart for Oman, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Norway](https://soundcharts.com/en/charts/airplay/norway): Weekly Airplay chart for Norway, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – North Macedonia](https://soundcharts.com/en/charts/airplay/north-macedonia): Weekly Airplay chart for North Macedonia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Nigeria](https://soundcharts.com/en/charts/airplay/nigeria): Weekly Airplay chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – New Zealand](https://soundcharts.com/en/charts/airplay/new-zealand): Weekly Airplay chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – New Caledonia](https://soundcharts.com/en/charts/airplay/new-caledonia): Weekly Airplay chart for New Caledonia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Netherlands](https://soundcharts.com/en/charts/airplay/netherlands): Weekly Airplay chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Morocco](https://soundcharts.com/en/charts/airplay/morocco): Weekly Airplay chart for Morocco, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Moldova](https://soundcharts.com/en/charts/airplay/moldova): Weekly Airplay chart for Moldova, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Mexico](https://soundcharts.com/en/charts/airplay/mexico): Weekly Airplay chart for Mexico, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Mayotte](https://soundcharts.com/en/charts/airplay/mayotte): Weekly Airplay chart for Mayotte, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Martinique](https://soundcharts.com/en/charts/airplay/martinique): Weekly Airplay chart for Martinique, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Malta](https://soundcharts.com/en/charts/airplay/malta): Weekly Airplay chart for Malta, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Malaysia](https://soundcharts.com/en/charts/airplay/malaysia): Weekly Airplay chart for Malaysia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Luxembourg](https://soundcharts.com/en/charts/airplay/luxembourg): Weekly Airplay chart for Luxembourg, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Lithuania](https://soundcharts.com/en/charts/airplay/lithuania): Weekly Airplay chart for Lithuania, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/airplay/liechtenstein](https://soundcharts.com/en/charts/airplay/liechtenstein)
+- [Airplay Chart – Lebanon](https://soundcharts.com/en/charts/airplay/lebanon): Weekly Airplay chart for Lebanon, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Latvia](https://soundcharts.com/en/charts/airplay/latvia): Weekly Airplay chart for Latvia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Kenya](https://soundcharts.com/en/charts/airplay/kenya): Weekly Airplay chart for Kenya, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Japan](https://soundcharts.com/en/charts/airplay/japan): Weekly Airplay chart for Japan, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Jamaica](https://soundcharts.com/en/charts/airplay/jamaica): Weekly Airplay chart for Jamaica, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Italy](https://soundcharts.com/en/charts/airplay/italy): Weekly Airplay chart for Italy, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Israel](https://soundcharts.com/en/charts/airplay/israel): Weekly Airplay chart for Israel, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Ireland](https://soundcharts.com/en/charts/airplay/ireland): Weekly Airplay chart for Ireland, updated regularly. Top songs ranked by performance.
+- [https://soundcharts.com/en/charts/airplay/iran](https://soundcharts.com/en/charts/airplay/iran)
+- [Airplay Chart – Indonesia](https://soundcharts.com/en/charts/airplay/indonesia): Weekly Airplay chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – India](https://soundcharts.com/en/charts/airplay/india): Weekly Airplay chart for India, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Iceland](https://soundcharts.com/en/charts/airplay/iceland): Weekly Airplay chart for Iceland, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Hungary](https://soundcharts.com/en/charts/airplay/hungary): Weekly Airplay chart for Hungary, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Hong Kong SAR China](https://soundcharts.com/en/charts/airplay/hong-kong-sar-china): Weekly Airplay chart for Hong Kong SAR China, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Honduras](https://soundcharts.com/en/charts/airplay/honduras): Weekly Airplay chart for Honduras, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Guadeloupe](https://soundcharts.com/en/charts/airplay/guadeloupe): Weekly Airplay chart for Guadeloupe, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Greece](https://soundcharts.com/en/charts/airplay/greece): Weekly Airplay chart for Greece, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Ghana](https://soundcharts.com/en/charts/airplay/ghana): Weekly Airplay chart for Ghana, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Germany](https://soundcharts.com/en/charts/airplay/germany): Weekly Airplay chart for Germany, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Georgia](https://soundcharts.com/en/charts/airplay/georgia): Weekly Airplay chart for Georgia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – French Polynesia](https://soundcharts.com/en/charts/airplay/french-polynesia): Weekly Airplay chart for French Polynesia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – French Guiana](https://soundcharts.com/en/charts/airplay/french-guiana): Weekly Airplay chart for French Guiana, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – France](https://soundcharts.com/en/charts/airplay/france): Weekly Airplay chart for France, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Finland](https://soundcharts.com/en/charts/airplay/finland): Weekly Airplay chart for Finland, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Faroe Islands](https://soundcharts.com/en/charts/airplay/faroe-islands): Weekly Airplay chart for Faroe Islands, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Estonia](https://soundcharts.com/en/charts/airplay/estonia): Weekly Airplay chart for Estonia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Ecuador](https://soundcharts.com/en/charts/airplay/ecuador): Weekly Airplay chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Dominican Republic](https://soundcharts.com/en/charts/airplay/dominican-republic): Weekly Airplay chart for Dominican Republic, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Denmark](https://soundcharts.com/en/charts/airplay/denmark): Weekly Airplay chart for Denmark, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Côte d’Ivoire](https://soundcharts.com/en/charts/airplay/cote-divoire): Weekly Airplay chart for Côte d’Ivoire, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Czechia](https://soundcharts.com/en/charts/airplay/czechia): Weekly Airplay chart for Czechia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Cyprus](https://soundcharts.com/en/charts/airplay/cyprus): Weekly Airplay chart for Cyprus, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Croatia](https://soundcharts.com/en/charts/airplay/croatia): Weekly Airplay chart for Croatia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Costa Rica](https://soundcharts.com/en/charts/airplay/costa-rica): Weekly Airplay chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Colombia](https://soundcharts.com/en/charts/airplay/colombia): Weekly Airplay chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – China](https://soundcharts.com/en/charts/airplay/china): Weekly Airplay chart for China, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Chile](https://soundcharts.com/en/charts/airplay/chile): Weekly Airplay chart for Chile, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Central African Republic](https://soundcharts.com/en/charts/airplay/central-african-republic): Weekly Airplay chart for Central African Republic, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Canada](https://soundcharts.com/en/charts/airplay/canada): Weekly Airplay chart for Canada, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Bulgaria](https://soundcharts.com/en/charts/airplay/bulgaria): Weekly Airplay chart for Bulgaria, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Brazil](https://soundcharts.com/en/charts/airplay/brazil): Weekly Airplay chart for Brazil, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Botswana](https://soundcharts.com/en/charts/airplay/botswana): Weekly Airplay chart for Botswana, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Bosnia & Herzegovina](https://soundcharts.com/en/charts/airplay/bosnia-herzegovina): Weekly Airplay chart for Bosnia & Herzegovina, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Belgium](https://soundcharts.com/en/charts/airplay/belgium): Weekly Airplay chart for Belgium, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Austria](https://soundcharts.com/en/charts/airplay/austria): Weekly Airplay chart for Austria, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Australia](https://soundcharts.com/en/charts/airplay/australia): Weekly Airplay chart for Australia, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Argentina](https://soundcharts.com/en/charts/airplay/argentina): Weekly Airplay chart for Argentina, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Angola](https://soundcharts.com/en/charts/airplay/angola): Weekly Airplay chart for Angola, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Algeria](https://soundcharts.com/en/charts/airplay/algeria): Weekly Airplay chart for Algeria, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Albania](https://soundcharts.com/en/charts/airplay/albania): Weekly Airplay chart for Albania, updated regularly. Top songs ranked by performance.
+- [Airplay Chart – Global](https://soundcharts.com/en/charts/airplay/global): Weekly Airplay chart for Global, updated regularly. Top songs ranked by performance.
+- [SoundCloud Chart – United States](https://soundcharts.com/en/charts/soundcloud/united-states): Weekly SoundCloud chart for United States, updated regularly. Top songs ranked by performance.
+- [SoundCloud Chart – United Kingdom](https://soundcharts.com/en/charts/soundcloud/united-kingdom): Weekly SoundCloud chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Zimbabwe](https://soundcharts.com/en/charts/youtube/zimbabwe): Weekly YouTube chart for Zimbabwe, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Uruguay](https://soundcharts.com/en/charts/youtube/uruguay): Weekly YouTube chart for Uruguay, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – United States](https://soundcharts.com/en/charts/youtube/united-states): Weekly YouTube chart for United States, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – United Kingdom](https://soundcharts.com/en/charts/youtube/united-kingdom): Weekly YouTube chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – United Arab Emirates](https://soundcharts.com/en/charts/youtube/united-arab-emirates): Weekly YouTube chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Ukraine](https://soundcharts.com/en/charts/youtube/ukraine): Weekly YouTube chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Uganda](https://soundcharts.com/en/charts/youtube/uganda): Weekly YouTube chart for Uganda, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Türkiye](https://soundcharts.com/en/charts/youtube/turkiye): Weekly YouTube chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Tanzania](https://soundcharts.com/en/charts/youtube/tanzania): Weekly YouTube chart for Tanzania, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Switzerland](https://soundcharts.com/en/charts/youtube/switzerland): Weekly YouTube chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Sweden](https://soundcharts.com/en/charts/youtube/sweden): Weekly YouTube chart for Sweden, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Spain](https://soundcharts.com/en/charts/youtube/spain): Weekly YouTube chart for Spain, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – South Korea](https://soundcharts.com/en/charts/youtube/south-korea): Weekly YouTube chart for South Korea, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – South Africa](https://soundcharts.com/en/charts/youtube/south-africa): Weekly YouTube chart for South Africa, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Serbia](https://soundcharts.com/en/charts/youtube/serbia): Weekly YouTube chart for Serbia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Saudi Arabia](https://soundcharts.com/en/charts/youtube/saudi-arabia): Weekly YouTube chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Russia](https://soundcharts.com/en/charts/youtube/russia): Weekly YouTube chart for Russia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Romania](https://soundcharts.com/en/charts/youtube/romania): Weekly YouTube chart for Romania, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Portugal](https://soundcharts.com/en/charts/youtube/portugal): Weekly YouTube chart for Portugal, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Poland](https://soundcharts.com/en/charts/youtube/poland): Weekly YouTube chart for Poland, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Peru](https://soundcharts.com/en/charts/youtube/peru): Weekly YouTube chart for Peru, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Paraguay](https://soundcharts.com/en/charts/youtube/paraguay): Weekly YouTube chart for Paraguay, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Panama](https://soundcharts.com/en/charts/youtube/panama): Weekly YouTube chart for Panama, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Norway](https://soundcharts.com/en/charts/youtube/norway): Weekly YouTube chart for Norway, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Nigeria](https://soundcharts.com/en/charts/youtube/nigeria): Weekly YouTube chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Nicaragua](https://soundcharts.com/en/charts/youtube/nicaragua): Weekly YouTube chart for Nicaragua, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – New Zealand](https://soundcharts.com/en/charts/youtube/new-zealand): Weekly YouTube chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Netherlands](https://soundcharts.com/en/charts/youtube/netherlands): Weekly YouTube chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Mexico](https://soundcharts.com/en/charts/youtube/mexico): Weekly YouTube chart for Mexico, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Luxembourg](https://soundcharts.com/en/charts/youtube/luxembourg): Weekly YouTube chart for Luxembourg, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Kenya](https://soundcharts.com/en/charts/youtube/kenya): Weekly YouTube chart for Kenya, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Japan](https://soundcharts.com/en/charts/youtube/japan): Weekly YouTube chart for Japan, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Italy](https://soundcharts.com/en/charts/youtube/italy): Weekly YouTube chart for Italy, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Israel](https://soundcharts.com/en/charts/youtube/israel): Weekly YouTube chart for Israel, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Ireland](https://soundcharts.com/en/charts/youtube/ireland): Weekly YouTube chart for Ireland, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Indonesia](https://soundcharts.com/en/charts/youtube/indonesia): Weekly YouTube chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – India](https://soundcharts.com/en/charts/youtube/india): Weekly YouTube chart for India, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Iceland](https://soundcharts.com/en/charts/youtube/iceland): Weekly YouTube chart for Iceland, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Hungary](https://soundcharts.com/en/charts/youtube/hungary): Weekly YouTube chart for Hungary, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Honduras](https://soundcharts.com/en/charts/youtube/honduras): Weekly YouTube chart for Honduras, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Guatemala](https://soundcharts.com/en/charts/youtube/guatemala): Weekly YouTube chart for Guatemala, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Germany](https://soundcharts.com/en/charts/youtube/germany): Weekly YouTube chart for Germany, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – France](https://soundcharts.com/en/charts/youtube/france): Weekly YouTube chart for France, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Finland](https://soundcharts.com/en/charts/youtube/finland): Weekly YouTube chart for Finland, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Estonia](https://soundcharts.com/en/charts/youtube/estonia): Weekly YouTube chart for Estonia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – El Salvador](https://soundcharts.com/en/charts/youtube/el-salvador): Weekly YouTube chart for El Salvador, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Egypt](https://soundcharts.com/en/charts/youtube/egypt): Weekly YouTube chart for Egypt, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Ecuador](https://soundcharts.com/en/charts/youtube/ecuador): Weekly YouTube chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Dominican Republic](https://soundcharts.com/en/charts/youtube/dominican-republic): Weekly YouTube chart for Dominican Republic, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Denmark](https://soundcharts.com/en/charts/youtube/denmark): Weekly YouTube chart for Denmark, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Czechia](https://soundcharts.com/en/charts/youtube/czechia): Weekly YouTube chart for Czechia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Costa Rica](https://soundcharts.com/en/charts/youtube/costa-rica): Weekly YouTube chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Colombia](https://soundcharts.com/en/charts/youtube/colombia): Weekly YouTube chart for Colombia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Chile](https://soundcharts.com/en/charts/youtube/chile): Weekly YouTube chart for Chile, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Canada](https://soundcharts.com/en/charts/youtube/canada): Weekly YouTube chart for Canada, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Brazil](https://soundcharts.com/en/charts/youtube/brazil): Weekly YouTube chart for Brazil, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Bolivia](https://soundcharts.com/en/charts/youtube/bolivia): Weekly YouTube chart for Bolivia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Belgium](https://soundcharts.com/en/charts/youtube/belgium): Weekly YouTube chart for Belgium, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Austria](https://soundcharts.com/en/charts/youtube/austria): Weekly YouTube chart for Austria, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Australia](https://soundcharts.com/en/charts/youtube/australia): Weekly YouTube chart for Australia, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Argentina](https://soundcharts.com/en/charts/youtube/argentina): Weekly YouTube chart for Argentina, updated regularly. Top songs ranked by performance.
+- [YouTube Chart – Global](https://soundcharts.com/en/charts/youtube/global): Weekly YouTube chart for Global, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Venezuela](https://soundcharts.com/en/charts/deezer/venezuela): Weekly Deezer chart for Venezuela, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – United States](https://soundcharts.com/en/charts/deezer/united-states): Weekly Deezer chart for United States, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – United Kingdom](https://soundcharts.com/en/charts/deezer/united-kingdom): Weekly Deezer chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – United Arab Emirates](https://soundcharts.com/en/charts/deezer/united-arab-emirates): Weekly Deezer chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Ukraine](https://soundcharts.com/en/charts/deezer/ukraine): Weekly Deezer chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Türkiye](https://soundcharts.com/en/charts/deezer/t-rkiye): Weekly Deezer chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Tunisia](https://soundcharts.com/en/charts/deezer/tunisia): Weekly Deezer chart for Tunisia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Thailand](https://soundcharts.com/en/charts/deezer/thailand): Weekly Deezer chart for Thailand, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Switzerland](https://soundcharts.com/en/charts/deezer/switzerland): Weekly Deezer chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Sweden](https://soundcharts.com/en/charts/deezer/sweden): Weekly Deezer chart for Sweden, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Spain](https://soundcharts.com/en/charts/deezer/spain): Weekly Deezer chart for Spain, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – South Korea](https://soundcharts.com/en/charts/deezer/south-korea): Weekly Deezer chart for South Korea, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – South Africa](https://soundcharts.com/en/charts/deezer/south-africa): Weekly Deezer chart for South Africa, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Slovenia](https://soundcharts.com/en/charts/deezer/slovenia): Weekly Deezer chart for Slovenia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Slovakia](https://soundcharts.com/en/charts/deezer/slovakia): Weekly Deezer chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Singapore](https://soundcharts.com/en/charts/deezer/singapore): Weekly Deezer chart for Singapore, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Serbia](https://soundcharts.com/en/charts/deezer/serbia): Weekly Deezer chart for Serbia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Senegal](https://soundcharts.com/en/charts/deezer/senegal): Weekly Deezer chart for Senegal, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Saudi Arabia](https://soundcharts.com/en/charts/deezer/saudi-arabia): Weekly Deezer chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Russia](https://soundcharts.com/en/charts/deezer/russia): Weekly Deezer chart for Russia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Romania](https://soundcharts.com/en/charts/deezer/romania): Weekly Deezer chart for Romania, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Portugal](https://soundcharts.com/en/charts/deezer/portugal): Weekly Deezer chart for Portugal, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Poland](https://soundcharts.com/en/charts/deezer/poland): Weekly Deezer chart for Poland, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Philippines](https://soundcharts.com/en/charts/deezer/philippines): Weekly Deezer chart for Philippines, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Peru](https://soundcharts.com/en/charts/deezer/peru): Weekly Deezer chart for Peru, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Paraguay](https://soundcharts.com/en/charts/deezer/paraguay): Weekly Deezer chart for Paraguay, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Norway](https://soundcharts.com/en/charts/deezer/norway): Weekly Deezer chart for Norway, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Nigeria](https://soundcharts.com/en/charts/deezer/nigeria): Weekly Deezer chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Netherlands](https://soundcharts.com/en/charts/deezer/netherlands): Weekly Deezer chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Morocco](https://soundcharts.com/en/charts/deezer/morocco): Weekly Deezer chart for Morocco, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Mexico](https://soundcharts.com/en/charts/deezer/mexico): Weekly Deezer chart for Mexico, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Malaysia](https://soundcharts.com/en/charts/deezer/malaysia): Weekly Deezer chart for Malaysia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Lithuania](https://soundcharts.com/en/charts/deezer/lithuania): Weekly Deezer chart for Lithuania, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Lebanon](https://soundcharts.com/en/charts/deezer/lebanon): Weekly Deezer chart for Lebanon, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Latvia](https://soundcharts.com/en/charts/deezer/latvia): Weekly Deezer chart for Latvia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Kenya](https://soundcharts.com/en/charts/deezer/kenya): Weekly Deezer chart for Kenya, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Jordan](https://soundcharts.com/en/charts/deezer/jordan): Weekly Deezer chart for Jordan, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Japan](https://soundcharts.com/en/charts/deezer/japan): Weekly Deezer chart for Japan, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Jamaica](https://soundcharts.com/en/charts/deezer/jamaica): Weekly Deezer chart for Jamaica, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Italy](https://soundcharts.com/en/charts/deezer/italy): Weekly Deezer chart for Italy, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Israel](https://soundcharts.com/en/charts/deezer/israel): Weekly Deezer chart for Israel, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Ireland](https://soundcharts.com/en/charts/deezer/ireland): Weekly Deezer chart for Ireland, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Indonesia](https://soundcharts.com/en/charts/deezer/indonesia): Weekly Deezer chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Hungary](https://soundcharts.com/en/charts/deezer/hungary): Weekly Deezer chart for Hungary, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Honduras](https://soundcharts.com/en/charts/deezer/honduras): Weekly Deezer chart for Honduras, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Guatemala](https://soundcharts.com/en/charts/deezer/guatemala): Weekly Deezer chart for Guatemala, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Germany](https://soundcharts.com/en/charts/deezer/germany): Weekly Deezer chart for Germany, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – France](https://soundcharts.com/en/charts/deezer/france): Weekly Deezer chart for France, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Finland](https://soundcharts.com/en/charts/deezer/finland): Weekly Deezer chart for Finland, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Estonia](https://soundcharts.com/en/charts/deezer/estonia): Weekly Deezer chart for Estonia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – El Salvador](https://soundcharts.com/en/charts/deezer/el-salvador): Weekly Deezer chart for El Salvador, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Egypt](https://soundcharts.com/en/charts/deezer/egypt): Weekly Deezer chart for Egypt, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Ecuador](https://soundcharts.com/en/charts/deezer/ecuador): Weekly Deezer chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Denmark](https://soundcharts.com/en/charts/deezer/denmark): Weekly Deezer chart for Denmark, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Côte d’Ivoire](https://soundcharts.com/en/charts/deezer/c-te-d-ivoire): Weekly Deezer chart for Côte d’Ivoire, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Czechia](https://soundcharts.com/en/charts/deezer/czechia): Weekly Deezer chart for Czechia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Croatia](https://soundcharts.com/en/charts/deezer/croatia): Weekly Deezer chart for Croatia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Costa Rica](https://soundcharts.com/en/charts/deezer/costa-rica): Weekly Deezer chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Colombia](https://soundcharts.com/en/charts/deezer/colombia): Weekly Deezer chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Chile](https://soundcharts.com/en/charts/deezer/chile): Weekly Deezer chart for Chile, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Canada](https://soundcharts.com/en/charts/deezer/canada): Weekly Deezer chart for Canada, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Bulgaria](https://soundcharts.com/en/charts/deezer/bulgaria): Weekly Deezer chart for Bulgaria, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Brazil](https://soundcharts.com/en/charts/deezer/brazil): Weekly Deezer chart for Brazil, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Bolivia](https://soundcharts.com/en/charts/deezer/bolivia): Weekly Deezer chart for Bolivia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Belgium](https://soundcharts.com/en/charts/deezer/belgium): Weekly Deezer chart for Belgium, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Austria](https://soundcharts.com/en/charts/deezer/austria): Weekly Deezer chart for Austria, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Australia](https://soundcharts.com/en/charts/deezer/australia): Weekly Deezer chart for Australia, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Argentina](https://soundcharts.com/en/charts/deezer/argentina): Weekly Deezer chart for Argentina, updated regularly. Top songs ranked by performance.
+- [Deezer Chart – Algeria](https://soundcharts.com/en/charts/deezer/algeria): Weekly Deezer chart for Algeria, updated regularly. Top songs ranked by performance.
+- [Deezer Chart –](https://soundcharts.com/en/charts/deezer/worldwide): Weekly Deezer chart for , updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Vietnam](https://soundcharts.com/en/charts/spotify/vietnam): Weekly Spotify chart for Vietnam, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Venezuela](https://soundcharts.com/en/charts/spotify/venezuela): Weekly Spotify chart for Venezuela, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Uruguay](https://soundcharts.com/en/charts/spotify/uruguay): Weekly Spotify chart for Uruguay, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – United States](https://soundcharts.com/en/charts/spotify/united-states): Weekly Spotify chart for United States, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – United Kingdom](https://soundcharts.com/en/charts/spotify/united-kingdom): Weekly Spotify chart for United Kingdom, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – United Arab Emirates](https://soundcharts.com/en/charts/spotify/united-arab-emirates): Weekly Spotify chart for United Arab Emirates, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Ukraine](https://soundcharts.com/en/charts/spotify/ukraine): Weekly Spotify chart for Ukraine, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Türkiye](https://soundcharts.com/en/charts/spotify/turkiye): Weekly Spotify chart for Türkiye, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Thailand](https://soundcharts.com/en/charts/spotify/thailand): Weekly Spotify chart for Thailand, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Taiwan](https://soundcharts.com/en/charts/spotify/taiwan): Weekly Spotify chart for Taiwan, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Switzerland](https://soundcharts.com/en/charts/spotify/switzerland): Weekly Spotify chart for Switzerland, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Sweden](https://soundcharts.com/en/charts/spotify/sweden): Weekly Spotify chart for Sweden, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Spain](https://soundcharts.com/en/charts/spotify/spain): Weekly Spotify chart for Spain, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – South Korea](https://soundcharts.com/en/charts/spotify/south-korea): Weekly Spotify chart for South Korea, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – South Africa](https://soundcharts.com/en/charts/spotify/south-africa): Weekly Spotify chart for South Africa, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Slovakia](https://soundcharts.com/en/charts/spotify/slovakia): Weekly Spotify chart for Slovakia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Singapore](https://soundcharts.com/en/charts/spotify/singapore): Weekly Spotify chart for Singapore, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Saudi Arabia](https://soundcharts.com/en/charts/spotify/saudi-arabia): Weekly Spotify chart for Saudi Arabia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Romania](https://soundcharts.com/en/charts/spotify/romania): Weekly Spotify chart for Romania, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Portugal](https://soundcharts.com/en/charts/spotify/portugal): Weekly Spotify chart for Portugal, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Poland](https://soundcharts.com/en/charts/spotify/poland): Weekly Spotify chart for Poland, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Philippines](https://soundcharts.com/en/charts/spotify/philippines): Weekly Spotify chart for Philippines, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Peru](https://soundcharts.com/en/charts/spotify/peru): Weekly Spotify chart for Peru, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Paraguay](https://soundcharts.com/en/charts/spotify/paraguay): Weekly Spotify chart for Paraguay, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Panama](https://soundcharts.com/en/charts/spotify/panama): Weekly Spotify chart for Panama, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Pakistan](https://soundcharts.com/en/charts/spotify/pakistan): Weekly Spotify chart for Pakistan, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Norway](https://soundcharts.com/en/charts/spotify/norway): Weekly Spotify chart for Norway, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Nigeria](https://soundcharts.com/en/charts/spotify/nigeria): Weekly Spotify chart for Nigeria, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Nicaragua](https://soundcharts.com/en/charts/spotify/nicaragua): Weekly Spotify chart for Nicaragua, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – New Zealand](https://soundcharts.com/en/charts/spotify/new-zealand): Weekly Spotify chart for New Zealand, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Netherlands](https://soundcharts.com/en/charts/spotify/netherlands): Weekly Spotify chart for Netherlands, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Morocco](https://soundcharts.com/en/charts/spotify/morocco): Weekly Spotify chart for Morocco, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Mexico](https://soundcharts.com/en/charts/spotify/mexico): Weekly Spotify chart for Mexico, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Malaysia](https://soundcharts.com/en/charts/spotify/malaysia): Weekly Spotify chart for Malaysia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Luxembourg](https://soundcharts.com/en/charts/spotify/luxembourg): Weekly Spotify chart for Luxembourg, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Lithuania](https://soundcharts.com/en/charts/spotify/lithuania): Weekly Spotify chart for Lithuania, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Latvia](https://soundcharts.com/en/charts/spotify/latvia): Weekly Spotify chart for Latvia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Kazakhstan](https://soundcharts.com/en/charts/spotify/kazakhstan): Weekly Spotify chart for Kazakhstan, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Japan](https://soundcharts.com/en/charts/spotify/japan): Weekly Spotify chart for Japan, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Italy](https://soundcharts.com/en/charts/spotify/italy): Weekly Spotify chart for Italy, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Israel](https://soundcharts.com/en/charts/spotify/israel): Weekly Spotify chart for Israel, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Ireland](https://soundcharts.com/en/charts/spotify/ireland): Weekly Spotify chart for Ireland, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Indonesia](https://soundcharts.com/en/charts/spotify/indonesia): Weekly Spotify chart for Indonesia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – India](https://soundcharts.com/en/charts/spotify/india): Weekly Spotify chart for India, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Iceland](https://soundcharts.com/en/charts/spotify/iceland): Weekly Spotify chart for Iceland, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Hungary](https://soundcharts.com/en/charts/spotify/hungary): Weekly Spotify chart for Hungary, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Hong Kong SAR China](https://soundcharts.com/en/charts/spotify/hong-kong-sar-china): Weekly Spotify chart for Hong Kong SAR China, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Honduras](https://soundcharts.com/en/charts/spotify/honduras): Weekly Spotify chart for Honduras, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Guatemala](https://soundcharts.com/en/charts/spotify/guatemala): Weekly Spotify chart for Guatemala, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Greece](https://soundcharts.com/en/charts/spotify/greece): Weekly Spotify chart for Greece, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Germany](https://soundcharts.com/en/charts/spotify/germany): Weekly Spotify chart for Germany, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – France](https://soundcharts.com/en/charts/spotify/france): Weekly Spotify chart for France, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Finland](https://soundcharts.com/en/charts/spotify/finland): Weekly Spotify chart for Finland, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Estonia](https://soundcharts.com/en/charts/spotify/estonia): Weekly Spotify chart for Estonia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – El Salvador](https://soundcharts.com/en/charts/spotify/el-salvador): Weekly Spotify chart for El Salvador, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Egypt](https://soundcharts.com/en/charts/spotify/egypt): Weekly Spotify chart for Egypt, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Ecuador](https://soundcharts.com/en/charts/spotify/ecuador): Weekly Spotify chart for Ecuador, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Dominican Republic](https://soundcharts.com/en/charts/spotify/dominican-republic): Weekly Spotify chart for Dominican Republic, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Denmark](https://soundcharts.com/en/charts/spotify/denmark): Weekly Spotify chart for Denmark, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Czechia](https://soundcharts.com/en/charts/spotify/czechia): Weekly Spotify chart for Czechia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Cyprus](https://soundcharts.com/en/charts/spotify/cyprus): Weekly Spotify chart for Cyprus, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Costa Rica](https://soundcharts.com/en/charts/spotify/costa-rica): Weekly Spotify chart for Costa Rica, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Colombia](https://soundcharts.com/en/charts/spotify/colombia): Weekly Spotify chart for Colombia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Chile](https://soundcharts.com/en/charts/spotify/chile): Weekly Spotify chart for Chile, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Canada](https://soundcharts.com/en/charts/spotify/canada): Weekly Spotify chart for Canada, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Bulgaria](https://soundcharts.com/en/charts/spotify/bulgaria): Weekly Spotify chart for Bulgaria, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Brazil](https://soundcharts.com/en/charts/spotify/brazil): Weekly Spotify chart for Brazil, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Bolivia](https://soundcharts.com/en/charts/spotify/bolivia): Weekly Spotify chart for Bolivia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Belgium](https://soundcharts.com/en/charts/spotify/belgium): Weekly Spotify chart for Belgium, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Belarus](https://soundcharts.com/en/charts/spotify/belarus): Weekly Spotify chart for Belarus, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Austria](https://soundcharts.com/en/charts/spotify/austria): Weekly Spotify chart for Austria, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Australia](https://soundcharts.com/en/charts/spotify/australia): Weekly Spotify chart for Australia, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Argentina](https://soundcharts.com/en/charts/spotify/argentina): Weekly Spotify chart for Argentina, updated regularly. Top songs ranked by performance.
+- [Spotify Chart – Global](https://soundcharts.com/en/charts/spotify/global): Weekly Spotify chart for Global, updated regularly. Top songs ranked by performance.
+- [Charts](https://soundcharts.com/sitemaps/charts-00001.xml)
+- [What is TikTok Promotion? Definition & Guide](https://soundcharts.com/en/blog/what-is-tiktok-promotion): What is TikTok Promotion? Music Industry Definition
+- [What is Sync Licensing? Definition & Guide](https://soundcharts.com/en/blog/what-is-sync-licensing): What is Sync Licensing? Music Industry Definition
+- [What is Streaming Fraud? Definition & Prevention](https://soundcharts.com/en/blog/what-is-streaming-fraud): What is Streaming Fraud? Music Industry Definition
+- [What is Spotify for Artists? Definition & Guide](https://soundcharts.com/en/blog/what-is-spotify-for-artists): What is Spotify for Artists? Music Industry Definition
+- [What is a Split Sheet? Definition & Guide](https://soundcharts.com/en/blog/what-is-split-sheet): What is a Split Sheet? Music Industry Definition
+- [What is Recoupment? Definition & Guide](https://soundcharts.com/en/blog/what-is-recoupment): What is Recoupment? Music Industry Definition
+- [What is Radio Plugging? Definition & Role](https://soundcharts.com/en/blog/what-is-radio-plugging): What is Radio Plugging? Music Industry Definition
+- [What are Publishing Rights? Definition & Guide](https://soundcharts.com/en/blog/what-is-publishing-rights): What are Publishing Rights? Music Industry Definition
+- [What is a PRO (Performance Rights Organization)? Definition](https://soundcharts.com/en/blog/what-is-pro-performance-rights-organization)
+- [What is Playlist Pitching? Definition & Guide](https://soundcharts.com/en/blog/what-is-playlist-pitching): What is Playlist Pitching? Music Industry Definition
+- [What are Performance Royalties? Definition & Guide](https://soundcharts.com/en/blog/what-is-performance-royalties): What are Performance Royalties? Music Industry Definition
+- [What is Music Metadata? Definition & Guide](https://soundcharts.com/en/blog/what-is-music-metadata): What is Music Metadata? Music Industry Definition
+- [What is Music Distribution? Definition & Guide](https://soundcharts.com/en/blog/what-is-music-distribution): What is Music Distribution? Music Industry Definition
+- [What is a Music Advance? Definition & Guide](https://soundcharts.com/en/blog/what-is-music-advance): What is a Music Advance? Music Industry Definition
+- [What are Mechanical Royalties? Definition & Guide](https://soundcharts.com/en/blog/what-is-mechanical-royalties): What are Mechanical Royalties? Music Industry Definition
+- [What is a Master Recording? Definition & Rights](https://soundcharts.com/en/blog/what-is-master-recording): What is a Master Recording? Music Industry Definition
+- [What is Apple Music for Artists? Definition & Guide](https://soundcharts.com/en/blog/what-is-apple-music-for-artists): What is Apple Music for Artists? Music Industry Definition
+- [What Is an ISRC? Definition, Meaning & Example](https://soundcharts.com/en/blog/what-is-an-isrc): ISRC Code in Music: Definition, Meaning & Example
+- [What is a UPC (Universal Product Code) in Music?](https://soundcharts.com/en/blog/what-is-a-upc)
+- [What Is a Record Label? Definition and Roles](https://soundcharts.com/en/blog/what-is-a-record-label)
+- [What is a Digital Service Provider (DSP) in music?](https://soundcharts.com/en/blog/what-is-a-dsp-digital-service-provider-in-music): What is a DSP (Digital Service Provider) in music?
+- [What is a 360 Deal? Definition & Guide](https://soundcharts.com/en/blog/what-is-360-deal): What is a 360 Deal? Music Industry Definition
+- [What is A&R (Artists and Repertoire) in music?](https://soundcharts.com/en/blog/what-does-ar-mean-in-music): What does A&R mean in music?
+- [What Are Superfans in Music?](https://soundcharts.com/en/blog/what-are-superfans-in-music): What Are Superfans in Music? Definition, Behavior, and Why They Matter
+- [What Are Neighboring Rights Royalties](https://soundcharts.com/en/blog/what-are-neighboring-rights-royalties): What Are Neighboring Rights Royalties in Music?
+- [Radio Tracking: Italian Track Tops Polish Charts](https://soundcharts.com/en/blog/user-stories-radio-italian-track-polish-charts): How soundcharts radio tracking helped an Italian track reach the top of the polish charts
+- [The Latest US Music Industry Stats and Trends (2026)](https://soundcharts.com/en/blog/us-music-market-overview): Music Market Focus: Sizing Up the US Music Industry
+- [Tom Windish on the Live Industry | Insiders EP04](https://soundcharts.com/en/blog/tom-windish-interview): EP04: Interview with Tom Windish
+- [TikTok for Artists: How to Promote Your Music](https://soundcharts.com/en/blog/tiktok-guide-for-artists-and-music-professionals): TikTok for Artists and Music Professionals: How to Use TikTok to Promote Your Music
+- [Artist Management 101: The Role of Music Talent Managers](https://soundcharts.com/en/blog/the-mechanics-of-management): The Mechanics of Artist Management: The What, Why, and How of Music Talent Managers
+- [Where should artists invest their energy in 2026?](https://soundcharts.com/en/blog/streaming-saturation-is-real-where-should-artists): Streaming saturation is real — Where should artists invest their energy in 2026?
+- [Stephen Phillips on AI Music Composition | EP03.2](https://soundcharts.com/en/blog/stephen-phillips-interview-part-two): EP03 (Part Two): Interview with Stephen Phillips
+- [Stephen Phillips on We Are Hunted | Insiders EP03](https://soundcharts.com/en/blog/stephen-phillips-interview-part-one): EP03 (Part One): Interview with Stephen Phillips
+- [How Do Record Labels Make Money? Inside the Release Cycle](https://soundcharts.com/en/blog/splits-and-profits-record-deals-analysis): A Hard Look at How Record Companies Make Money: Royalty Splits, Types of Record Deals, and the Label Business Model
+- [Smart Speakers and the Future of Music Consumption](https://soundcharts.com/en/blog/smart-speakers-and-music-consumption)
+- [How to Self-Publish Music: Pros & Cons](https://soundcharts.com/en/blog/self-publishing): Self-Publishing Music: How to Publish Your Own Songs
+- [Recruitment phishing scams impersonating Soundcharts](https://soundcharts.com/en/blog/recruitment-phishing-scams-impersonating-soundchar)
+- [Radio Royalties: Who Gets Paid When Songs Play?](https://soundcharts.com/en/blog/radio-royalties): Radio Royalties: How Do Radio Stations Pay Artists?
+- [Radio Airplay: How to Get Radio Plays & Have Your Songs Heard](https://soundcharts.com/en/blog/radio-airplay-for-artists): Radio Airplay: How to Get Your Songs Played on the Radio
+- [Explained: Performance Royalties vs. Mechanical Royalties](https://soundcharts.com/en/blog/performance-royalties-vs-mechanical): What Are Performance Royalties? (And How They’re Different From Mechanical Royalties)
+- [What PROs Do: How to Maximize Your Music Royalties](https://soundcharts.com/en/blog/performance-rights-organizations): What Performance Rights Organizations Do: How a PRO Can Maximize Your Royalties
+- [Our partners: Ctrl+Reach - Soundcharts](https://soundcharts.com/en/blog/partnerships-your-music-marketing): Soundcharts x Ctrl+Reach
+- [Soundcharts Partners with Base for Music](https://soundcharts.com/en/blog/partnerships-base-for-music): Soundcharts x Base for Music
+- [Soundcharts Partners with Playlist Push](https://soundcharts.com/en/blog/partnership-playlist-push): Soundcharts x Playlist Push
+- [Soundcharts partners with Listn - Music data meets music promotion](https://soundcharts.com/en/blog/partnership-listn): Soundcharts x Listn
+- [Streaming Payouts (2020): What Spotify, Apple, & Others Pay](https://soundcharts.com/en/blog/music-streaming-rates-payouts): What Music Streaming Services Pay Per Stream (And Why It Actually Doesn’t Matter)
+- [Music Royalties 101: How Do Music Royalties Work? (+ 6 Types)](https://soundcharts.com/en/blog/music-royalties): How Music Royalties Work: 6 Types of Music Royalties
+- [Developing Your Music Video Release Strategy: 9 Ideas](https://soundcharts.com/en/blog/music-release-strategy): 9 Music Video Release Strategy Ideas: Increase Views, Revenue & Fans
+- [What is a Music Press Kit? Why Every Band Needs an EPK](https://soundcharts.com/en/blog/music-press-kit): An EPK (Electronic Press Kit) is the Music Press Kit All Artists Need
+- [How to Handle Your Own Music PR + Finding a Music PR Firm](https://soundcharts.com/en/blog/music-pr): Music PR 101: 9 Steps to Managing Your Own Publicity + How to Find a Music PR Firm
+- [The Ultimate Guide to Music Metadata](https://soundcharts.com/en/blog/music-metadata): How Broken Metadata Affects the Music Industry (And What We Can Do About It)?
+- [15 Music Marketing Tools for Artist Growth](https://soundcharts.com/en/blog/music-marketing-tools): 9 Best Music Marketing Tools & 6 Platforms to Drive Artist Growth
+- [2022 Music Trends: Expert Predictions of the Music Industry](https://soundcharts.com/en/blog/music-industry-trends): What Does the Future Hold? 4 Music Trends & Expert Predictions for 2023 (And Beyond)
+- [The Best Music Industry Events & Trade Shows Around the World](https://soundcharts.com/en/blog/music-industry-events): How Music Industry Events, Trade Shows, & Conferences Build Lasting Brands
+- [A Complete Guide to Music Distribution Companies](https://soundcharts.com/en/blog/music-distribution): The Mechanics of Music Distribution: How it Works, Types of Music Distribution Companies + 35 Top Distributors
+- [Best Music Data Guideline 2026 - 47 Music Data APIs](https://soundcharts.com/en/blog/music-data-api): The Ultimate 2026 Music Data API Guide
+- [Music Copyright: How to Protect Your Songs](https://soundcharts.com/en/blog/music-copyrights): 6 Basics of Music Copyright Law: What It Protects and How to Copyright a Song
+- [7 Music Analytics Tools That Help Artists Grow (2026)](https://soundcharts.com/en/blog/music-analytics-tools): 7 Best Music Analytics Tools for Artists and Music Managers
+- [How Soundcharts API Powers Mogul Royalty Tracking](https://soundcharts.com/en/blog/mogul-users-stories): How the Soundcharts API enables Mogul to streamline royalty tracking and catalog management
+- [The Mechanics of Touring: How the Live Music Industry Works](https://soundcharts.com/en/blog/mechanics-of-touring)
+- [How the Recording Industry Works (History, Jobs, & Functions)](https://soundcharts.com/en/blog/mechanics-of-the-recording-industry): The Mechanics of Recording Industry: A Brief History & Its Functions
+- [How Does the Music Industry Work? A 10-Part Guide](https://soundcharts.com/en/blog/mechanics-of-the-music-industry): How Does the Music Industry Work? Introducing the Mechanics: A 10 Part Series (2023 update)
+- [Mechanical Royalties Guide: Who Pays & Collects Them?](https://soundcharts.com/en/blog/mechanical-royalties): What are Mechanical Royalties? Who Pays Mechanical Royalties & Who Collects Them?
+- [Master Rights vs. Publishing Rights in Music](https://soundcharts.com/en/blog/master-rights-vs-publishing-rights): Master Rights vs. Publishing Rights: What’s the Difference and Why It Matters
+- [Top Indian Music Companies: Labels & More (2022)](https://soundcharts.com/en/blog/local-music-companies-knowledge-base-india): Local Music Companies Knowledge Base: India
+- [Top Chinese Music Companies: Labels & More (2022)](https://soundcharts.com/en/blog/local-music-companies-knowledge-base-china): Local Music Companies Knowledge Base: Mainland China
+- [The Latest Japanese Music Industry Stats & Trends (2026)](https://soundcharts.com/en/blog/japan-music-market-overview): Music Market Focus: Japan [Latest Stats, Trends, & Analysis]
+- [Insiders EP09: Interview with Keith Jopling](https://soundcharts.com/en/blog/interview-keith-jopling): EP09: Interview with Keith Jopling on Five Trends Changing Music Marketing
+- [Darren Hemmings on Music Marketing | Insiders EP07](https://soundcharts.com/en/blog/interview-darren-hemmings): EP07: Interview with Darren Hemmings
+- [Cherie Hu on Music Industry Journalism | EP07](https://soundcharts.com/en/blog/interview-cherie-hu): EP08: Interview with Cherie Hu
+- [Indian Music Industry: Market Stats, Analysis, & 2020 Trends](https://soundcharts.com/en/blog/india-music-market-overview): Indian Music Industry Analysis: Streaming, Live Industry, Bollywood, 2022 Trends, and More
+- [Top lyrics of 2024: Analysis of Spotify's Top 50 Global songs](https://soundcharts.com/en/blog/how-to-write-a-hit-song-lyrics-analysis-of-2024s-b): Top lyrics of 2024: An AI lyrics analysis of Spotify's Top 50 Global songs
+- [How to use data for a successful music marketing campaign?](https://soundcharts.com/en/blog/how-to-use-data-for-music-marketing)
+- [How (& Why) to Track Radio Play (to Grow Musician Careers)](https://soundcharts.com/en/blog/how-to-track-radio-play): How to Track Radio Airplay & Grow Artists’ Careers
+- [How to Register a Record Label: The 13-Step Guide](https://soundcharts.com/en/blog/how-to-register-record-label): How to Start a Record Label in 13 Steps & Best Practices
+- [How to Blow Up on SoundCloud: The SoundCloud Promotion Guide](https://soundcharts.com/en/blog/how-to-promote-your-music-on-soundcloud): How to Promote Your Music on SoundCloud: The 8 Tips
+- [How to Promote Your Music on Social Media (9 Tips)](https://soundcharts.com/en/blog/how-to-promote-music-social-media): 9 Tips to Promote Your Music on Social Media
+- [How to Get Your Music Recommended by Streaming Algorithms?](https://soundcharts.com/en/blog/how-to-get-recommended-by-streaming-algorithms): How to Get Your Music Recommended by Streaming Algorithms (An Introduction Guide)
+- [How to Get on Spotify Playlists in 2026](https://soundcharts.com/en/blog/how-to-get-on-spotify-playlists): How to Get Playlisted on Spotify And Maximize Your Playlist Exposure
+- [How to Copyright Your Music: Cost, Steps & Mistakes - Soundcharts](https://soundcharts.com/en/blog/how-to-copyright-your-music): How to copyright a song in the US
+- [How To Book a Tour For Your Band: 7 Steps](https://soundcharts.com/en/blog/how-to-book-a-tour): How to Book a Tour: 7 Steps & 5 Tips on Getting Ready to Tour
+- [How Does Music Publishing Work? Royalties, Copyrights & More](https://soundcharts.com/en/blog/how-the-music-publishing-works): Music Publishing 101: Copyrights, Publishing Royalties, Common Deal Types, & More
+- [What is a Music Synchronization License? Sync Licensing 101](https://soundcharts.com/en/blog/how-music-sync-licensing-works): How Music Synchronization Licenses Work: Inside Movie, Advertisement, and Video Game Sync Licensing
+- [How Music Streaming Works + 5 Key Trends](https://soundcharts.com/en/blog/how-music-streaming-works-trends): How Music Streaming Works and The Popular Music Streaming Trends of Today
+- [Goshi Manabe on Music Industry in Japan | EP02](https://soundcharts.com/en/blog/goshi-manabe-interview): EP02: Interview with Goshi Manabe
+- [Farhana Aboo of AEI Group | Insiders EP05](https://soundcharts.com/en/blog/farhana-aboo-interview): EP05: Interview with Farhana Aboo
+- [What are Digital Performance Royalties?](https://soundcharts.com/en/blog/digital-performance-royalties): Digital Performance Royalties: How They’re Distributed and Who Earns Them
+- [China Music Industry Stats + Trends (2022)](https://soundcharts.com/en/blog/chinese-recording-market-streaming): Music Market Focus: China Streaming and Recording Business (Part 1/2)
+- [Why the Chinese Live Music & Touring Industry is Unique](https://soundcharts.com/en/blog/chinese-live-music-touring): Music Market Focus: China (Part 2/2) Inside the Chinese Live Music Industry
+- [Catherine Lückhoff on Niche Streaming | Insiders](https://soundcharts.com/en/blog/catherine-luckhoff-interview): EP06 : Interview with Catherine Lückhoff
+- [Build a Custom A&R Dashboard with Soundcharts API](https://soundcharts.com/en/blog/build-custom-dashboard-with-soundcharts-api): How to build a custom A&R dashboard with Soundcharts, Airtable & Make.com
+- [Bob Moczydlowsky on Music Startups | Insiders EP01](https://soundcharts.com/en/blog/bob-moz-interview): EP01: Interview with Bob "Moz" Moczydlowsky
+- [BMI vs ASCAP vs SESAC: Which PRO is Right for You?](https://soundcharts.com/en/blog/bmi-vs-ascap): BMI vs ASCAP vs SESAC: What PROs Do (and How They Measure Up)
+- [17 Best Apps for Musicians in 2022](https://soundcharts.com/en/blog/apps-for-musicians): 17 Best Apps for Musicians in 2024: Apps for On-the-go Production, Songwriting, Touring, and more
+- [Anatomy of a Viral Hit: TikTok & Gordon Ramsey](https://soundcharts.com/en/blog/anatomy-of-a-viral-hit-tiktok): Anatomy of a Viral Hit: TikTok, Dance Moves and Gordon Ramsey
+- [AI Music Analysis 2026: Auto-Tagging & Benchmarks](https://soundcharts.com/en/blog/ai-music-analysis-2026): AI Music Analysis 2026: Descriptive AI, Auto-Tagging & Benchmark
+- [Virtual Shows: Post-COVID Music Industry Challenges](https://soundcharts.com/en/blog/a-virtual-show-for-a-digital-crowd): A Virtual Show for a Digital Crowd: Mapping Out the Challenges of the Post-COVID Music Industry
+- [How We've Built Our A&R Prediction Chart for 2020](https://soundcharts.com/en/blog/a-r-prediction-charts): How We Predicted Top Rap Artists to Break in 2020
+- [Users stories](https://soundcharts.com/en/blog/category/users-stories): Customer stories and real-world use cases from labels, managers, and A&R.
+- [Our Partners](https://soundcharts.com/en/blog/category/partners): Discover Soundcharts' partner music platforms: promotion, marketing, rights management. Make informed decisions for your music career.
+- [Music Markets](https://soundcharts.com/en/blog/category/music-markets): Market intelligence by country and region: charts, trends, and audience insights.
+- [Mechanics](https://soundcharts.com/en/blog/category/mechanics): The Mechanics series breaks down how the music business works, covering streaming, royalties, distribution, publishing, and industry data.
+- [Insiders](https://soundcharts.com/en/blog/category/insiders): Insiders is a music business podcast featuring in-depth interviews and perspectives from the executives shaping the music and tech industries.
+- [Glossary](https://soundcharts.com/en/blog/category/glossary): Clear definitions of key music industry terms — from A&R to royalties — to help artists, managers, and professionals understand how the business works.
+- [General](https://soundcharts.com/en/blog/category/general): Browse general music analytics insights, industry trends, product updates, and data-driven resources from the Soundcharts blog.
+- [Soundcharts Blog](https://soundcharts.com/en/blog): Music analytics, radio airplay, charts, and industry trends. Expert guides and market insights for music professionals.
+- [Blog](https://soundcharts.com/sitemaps/blog-00001.xml)
